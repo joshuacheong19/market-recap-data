@@ -1,6 +1,6 @@
 {
   "session_date": "2026-11-03",
-  "generated_at_utc": "2026-11-04T03:37:07+00:00",
+  "generated_at_utc": "2026-11-04T03:53:23+00:00",
   "price_source": "Yahoo Finance via yfinance (unofficial; unadjusted closes)",
   "equities": {
     "SPY": {
@@ -136,50 +136,50 @@
       "name": "COMEX gold",
       "symbol": "GC=F",
       "unit": "USD/oz",
-      "close": 3948.5,
+      "close": 3949.0,
       "previous_close": 3969.6001,
       "previous_date": "2026-11-02",
-      "change_pct": -0.53
+      "change_pct": -0.52
     },
     {
       "group": "Precious metals",
       "name": "COMEX silver",
       "symbol": "SI=F",
       "unit": "USD/oz",
-      "close": 49.285,
+      "close": 49.325,
       "previous_close": 50.72,
       "previous_date": "2026-11-02",
-      "change_pct": -2.83
+      "change_pct": -2.75
     },
     {
       "group": "Precious metals",
       "name": "NYMEX platinum",
       "symbol": "PL=F",
       "unit": "USD/oz",
-      "close": 1397.1,
+      "close": 1398.1,
       "previous_close": 1459.0,
       "previous_date": "2026-11-02",
-      "change_pct": -4.24
+      "change_pct": -4.17
     },
     {
       "group": "Precious metals",
       "name": "NYMEX palladium",
       "symbol": "PA=F",
       "unit": "USD/oz",
-      "close": 927.5,
+      "close": 928.0,
       "previous_close": 965.1,
       "previous_date": "2026-11-02",
-      "change_pct": -3.9
+      "change_pct": -3.84
     },
     {
       "group": "Base metals",
       "name": "COMEX copper",
       "symbol": "HG=F",
       "unit": "USD/lb",
-      "close": 6.3075,
+      "close": 6.2965,
       "previous_close": 6.5435,
       "previous_date": "2026-11-02",
-      "change_pct": -3.61
+      "change_pct": -3.77
     },
     {
       "group": "Base metals",
@@ -216,10 +216,10 @@
       "name": "CBOT wheat",
       "symbol": "ZW=F",
       "unit": "US cents/bu",
-      "close": 592.0,
+      "close": 592.25,
       "previous_close": 606.5,
       "previous_date": "2026-11-02",
-      "change_pct": -2.39
+      "change_pct": -2.35
     },
     {
       "group": "Agriculture",
@@ -236,10 +236,10 @@
       "name": "CBOT soybeans",
       "symbol": "ZS=F",
       "unit": "US cents/bu",
-      "close": 1201.25,
+      "close": 1200.75,
       "previous_close": 1204.75,
       "previous_date": "2026-11-02",
-      "change_pct": -0.29
+      "change_pct": -0.33
     },
     {
       "group": "Softs",
@@ -260,16 +260,6 @@
       "previous_close": 5435.0,
       "previous_date": "2026-11-02",
       "change_pct": -0.28
-    },
-    {
-      "group": "Softs",
-      "name": "ICE sugar",
-      "symbol": "SB=F",
-      "unit": "US cents/lb",
-      "close": 18.35,
-      "previous_close": 19.06,
-      "previous_date": "2026-11-02",
-      "change_pct": -3.73
     },
     {
       "group": "Softs",
@@ -296,33 +286,36 @@
       "name": "NYMEX WTI",
       "symbol": "CL=F",
       "unit": "USD/bbl",
-      "close": 95.56,
+      "close": 95.77,
       "previous_close": 96.46,
       "previous_date": "2026-11-02",
-      "change_pct": -0.93
+      "change_pct": -0.72
     },
     {
       "group": "Energy",
       "name": "ICE Brent",
       "symbol": "BZ=F",
       "unit": "USD/bbl",
-      "close": 103.15,
+      "close": 103.35,
       "previous_close": 104.77,
       "previous_date": "2026-11-02",
-      "change_pct": -1.55
+      "change_pct": -1.36
     },
     {
       "group": "Energy",
       "name": "NYMEX natural gas",
       "symbol": "NG=F",
       "unit": "USD/MMBtu",
-      "close": 2.851,
+      "close": 2.854,
       "previous_close": 2.856,
       "previous_date": "2026-11-02",
-      "change_pct": -0.18
+      "change_pct": -0.07
     }
   ],
-  "missing_symbols": [],
+  "commodity_note": "Close is Yahoo's latest price when this file was generated, which can differ from the official settlement. Treat as indicative: use reported settlements where available. Thin contracts can be stale.",
+  "missing_symbols": [
+    "ICE sugar"
+  ],
   "treasury": {
     "source": "US Treasury daily par yield curve",
     "as_of": "2026-11-03",
