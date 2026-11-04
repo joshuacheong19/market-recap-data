@@ -125,11 +125,11 @@ def parse_constituents(html: str, index_name: str) -> dict[str, dict]:
     for table in pd.read_html(io.StringIO(html)):
         columns = {str(c).strip().lower(): c for c in table.columns}
         symbol_col = columns.get("symbol") or columns.get("ticker")
-        sub_col = columns.get("gics sub-industry")
+        sub_col = columns.get("gics sub-industry") or columns.get("icb subsector")
         if symbol_col is None or sub_col is None or len(table) < 90:
             continue
         name_col = columns.get("security") or columns.get("company")
-        sector_col = columns.get("gics sector")
+        sector_col = columns.get("gics sector") or columns.get("icb industry")
         out = {}
         for _, row in table.iterrows():
             ticker = str(row[symbol_col]).strip().replace(".", "-")
@@ -144,14 +144,23 @@ def parse_constituents(html: str, index_name: str) -> dict[str, dict]:
 
 
 def load_universe() -> dict[str, dict]:
-    universe = parse_constituents(
-        http_get("https://en.wikipedia.org/wiki/List_of_S%26P_500_companies"), "S&P 500")
-    for ticker, info in parse_constituents(
-            http_get("https://en.wikipedia.org/wiki/Nasdaq-100"), "Nasdaq 100").items():
-        if ticker in universe:
-            universe[ticker]["indices"].append("Nasdaq 100")
-        else:
-            universe[ticker] = info
+    """Both indices, merged. Falls back to the last good copy if a fetch fails."""
+    cache = DATA_DIR / "constituents.json"
+    try:
+        universe = parse_constituents(
+            http_get("https://en.wikipedia.org/wiki/List_of_S%26P_500_companies"), "S&P 500")
+        for ticker, info in parse_constituents(
+                http_get("https://en.wikipedia.org/wiki/Nasdaq-100"), "Nasdaq 100").items():
+            if ticker in universe:
+                universe[ticker]["indices"].append("Nasdaq 100")
+            else:
+                universe[ticker] = info
+    except Exception:
+        if cache.exists():
+            return json.loads(cache.read_text())
+        raise
+    DATA_DIR.mkdir(exist_ok=True)
+    cache.write_text(json.dumps(universe, indent=1) + "\n")
     return universe
 
 
@@ -267,6 +276,9 @@ def build(now_utc: datetime | None = None) -> dict:
         "equities": equities,
         "sectors": sectors,
         "commodities": commodities,
+        "commodity_note": ("Close is Yahoo's latest price when this file was generated, which can "
+                           "differ from the official settlement. Treat as indicative: use reported "
+                           "settlements where available. Thin contracts can be stale."),
         "missing_symbols": missing,
     }
     if universe:

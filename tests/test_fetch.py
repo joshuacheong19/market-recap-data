@@ -114,3 +114,18 @@ def test_download_closes_handles_yfinance_shape(monkeypatch):
     closes = f.download_closes(["SPY", "QQQ"])
     assert list(closes.index) == list(pd.to_datetime(["2026-11-02", "2026-11-03"]))
     assert closes.loc["2026-11-03", "QQQ"] == 2.0
+
+
+def test_parse_constituents_accepts_nasdaq_icb_columns():
+    rows = "".join(f"<tr><td>T{i}</td><td>Co {i}</td><td>Tech</td><td>Software</td></tr>" for i in range(100))
+    html = ("<table><tr><th>Ticker</th><th>Company</th><th>ICB Industry</th>"
+            f"<th>ICB Subsector</th></tr>{rows}</table>")
+    parsed = f.parse_constituents(html, "Nasdaq 100")
+    assert parsed["T1"]["industry"] == "Software" and parsed["T1"]["sector"] == "Tech"
+
+
+def test_universe_falls_back_to_saved_copy(monkeypatch, tmp_path):
+    monkeypatch.setattr(f, "DATA_DIR", tmp_path)
+    (tmp_path / "constituents.json").write_text('{"AAA": {"company": "A", "indices": ["S&P 500"]}}')
+    monkeypatch.setattr(f, "http_get", lambda _: (_ for _ in ()).throw(OSError("down")))
+    assert "AAA" in f.load_universe()
