@@ -141,7 +141,7 @@ def parse_constituents(html: str, index_name: str) -> dict[str, dict]:
         if symbol_col is None or name_col is None or not 90 <= len(table) <= 600:
             continue
         sub_col = _find_column(table, r"sub-?\s?(industry|sector)", r"industry")
-        sector_col = _find_column(table, r"sector$", r"industry$")
+        sector_col = _find_column(table, r"(^|\s)sector$", r"(^|\s)industry$")
         out = {}
         for _, row in table.iterrows():
             ticker = str(row[symbol_col]).strip().replace(".", "-")
@@ -162,7 +162,7 @@ def load_universe() -> dict[str, dict]:
         universe = parse_constituents(
             http_get("https://en.wikipedia.org/wiki/List_of_S%26P_500_companies"), "S&P 500")
         for ticker, info in parse_constituents(
-                http_get("https://en.wikipedia.org/wiki/Nasdaq-100"), "Nasdaq 100").items():
+                http_get("https://en.wikipedia.org/wiki/List_of_NASDAQ-100_companies"), "Nasdaq 100").items():
             if ticker in universe:
                 universe[ticker]["indices"].append("Nasdaq 100")
             else:
