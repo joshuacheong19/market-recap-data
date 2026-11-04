@@ -1,6 +1,6 @@
 {
   "session_date": "2026-11-03",
-  "generated_at_utc": "2026-11-04T03:53:23+00:00",
+  "generated_at_utc": "2026-11-04T03:54:10+00:00",
   "price_source": "Yahoo Finance via yfinance (unofficial; unadjusted closes)",
   "equities": {
     "SPY": {
@@ -156,10 +156,10 @@
       "name": "NYMEX platinum",
       "symbol": "PL=F",
       "unit": "USD/oz",
-      "close": 1398.1,
+      "close": 1398.5,
       "previous_close": 1459.0,
       "previous_date": "2026-11-02",
-      "change_pct": -4.17
+      "change_pct": -4.15
     },
     {
       "group": "Precious metals",
@@ -176,10 +176,10 @@
       "name": "COMEX copper",
       "symbol": "HG=F",
       "unit": "USD/lb",
-      "close": 6.2965,
+      "close": 6.296,
       "previous_close": 6.5435,
       "previous_date": "2026-11-02",
-      "change_pct": -3.77
+      "change_pct": -3.78
     },
     {
       "group": "Base metals",
@@ -216,30 +216,30 @@
       "name": "CBOT wheat",
       "symbol": "ZW=F",
       "unit": "US cents/bu",
-      "close": 592.25,
+      "close": 592.0,
       "previous_close": 606.5,
       "previous_date": "2026-11-02",
-      "change_pct": -2.35
+      "change_pct": -2.39
     },
     {
       "group": "Agriculture",
       "name": "CBOT corn",
       "symbol": "ZC=F",
       "unit": "US cents/bu",
-      "close": 439.25,
+      "close": 438.75,
       "previous_close": 448.25,
       "previous_date": "2026-11-02",
-      "change_pct": -2.01
+      "change_pct": -2.12
     },
     {
       "group": "Agriculture",
       "name": "CBOT soybeans",
       "symbol": "ZS=F",
       "unit": "US cents/bu",
-      "close": 1200.75,
+      "close": 1201.0,
       "previous_close": 1204.75,
       "previous_date": "2026-11-02",
-      "change_pct": -0.33
+      "change_pct": -0.31
     },
     {
       "group": "Softs",
@@ -260,6 +260,16 @@
       "previous_close": 5435.0,
       "previous_date": "2026-11-02",
       "change_pct": -0.28
+    },
+    {
+      "group": "Softs",
+      "name": "ICE sugar",
+      "symbol": "SB=F",
+      "unit": "US cents/lb",
+      "close": 18.35,
+      "previous_close": 19.06,
+      "previous_date": "2026-11-02",
+      "change_pct": -3.73
     },
     {
       "group": "Softs",
@@ -286,36 +296,34 @@
       "name": "NYMEX WTI",
       "symbol": "CL=F",
       "unit": "USD/bbl",
-      "close": 95.77,
+      "close": 95.73,
       "previous_close": 96.46,
       "previous_date": "2026-11-02",
-      "change_pct": -0.72
+      "change_pct": -0.76
     },
     {
       "group": "Energy",
       "name": "ICE Brent",
       "symbol": "BZ=F",
       "unit": "USD/bbl",
-      "close": 103.35,
+      "close": 103.3,
       "previous_close": 104.77,
       "previous_date": "2026-11-02",
-      "change_pct": -1.36
+      "change_pct": -1.4
     },
     {
       "group": "Energy",
       "name": "NYMEX natural gas",
       "symbol": "NG=F",
       "unit": "USD/MMBtu",
-      "close": 2.854,
+      "close": 2.855,
       "previous_close": 2.856,
       "previous_date": "2026-11-02",
-      "change_pct": -0.07
+      "change_pct": -0.04
     }
   ],
   "commodity_note": "Close is Yahoo's latest price when this file was generated, which can differ from the official settlement. Treat as indicative: use reported settlements where available. Thin contracts can be stale.",
-  "missing_symbols": [
-    "ICE sugar"
-  ],
+  "missing_symbols": [],
   "treasury": {
     "source": "US Treasury daily par yield curve",
     "as_of": "2026-11-03",
@@ -358,6 +366,6 @@
     }
   },
   "errors": {
-    "movers": "constituents: constituents table not found for Nasdaq 100"
+    "movers": "constituents: constituents table not found for Nasdaq 100; tables seen: [['0', '1'], ['Category', 'All-Time Highs[13]', 'All-Time Highs[13].1'], ['Year', 'Closing level', 'Change in Index in Points', 'Change in Index in\\xa0%'], ['Milestone (closing)[13]', 'Date of Record (closing)[13]', 'Trading Days[13]'], ['Milestone (closing)[13]', 'Date of Record (closing)[13]', 'Trading Days[13]'], ['vteList of NASDAQ-100 companies', 'vteList of NASDAQ-100 companies.1'], ['vteNasdaq, Inc.', 'vteNasdaq, Inc..1', 'vteNasdaq, Inc..2'], ['vteStock market indices', 'vteStock market indices.1'], ['0', '1'], ['0', '1'], ['0', '1'], ['0', '1'], ['0', '1'], ['0', '1'], ['0', '1'], ['0', '1'], ['vteMajor United States stock market indices', 'vteMajor United States stock market indices.1'], ['vteMajor stock market indices of the Americas', 'vteMajor stock market indices of the Americas.1']]"
   }
 }
