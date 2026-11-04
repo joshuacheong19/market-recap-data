@@ -11,6 +11,7 @@ from __future__ import annotations
 import csv
 import io
 import json
+import re
 import sys
 from datetime import datetime, timezone
 from pathlib import Path
@@ -120,27 +121,38 @@ def quote(closes: pd.DataFrame, symbol: str, session: pd.Timestamp) -> dict | No
     }
 
 
+def _find_column(table: pd.DataFrame, *patterns: str):
+    """First column whose name matches a pattern, ignoring footnote marks like [14]."""
+    for pattern in patterns:
+        for column in table.columns:
+            name = re.sub(r"\[.*?\]", "", str(column)).strip().lower()
+            if re.search(pattern, name):
+                return column
+    return None
+
+
 def parse_constituents(html: str, index_name: str) -> dict[str, dict]:
     """Find the constituents table in a Wikipedia page by its column names."""
+    seen = []
     for table in pd.read_html(io.StringIO(html)):
-        columns = {str(c).strip().lower(): c for c in table.columns}
-        symbol_col = columns.get("symbol") or columns.get("ticker")
-        sub_col = columns.get("gics sub-industry") or columns.get("icb subsector")
-        if symbol_col is None or sub_col is None or len(table) < 90:
+        seen.append([str(c) for c in table.columns][:6])
+        symbol_col = _find_column(table, r"^(symbol|ticker)")
+        name_col = _find_column(table, r"^(security|company)")
+        if symbol_col is None or name_col is None or not 90 <= len(table) <= 600:
             continue
-        name_col = columns.get("security") or columns.get("company")
-        sector_col = columns.get("gics sector") or columns.get("icb industry")
+        sub_col = _find_column(table, r"sub-?\s?(industry|sector)", r"industry")
+        sector_col = _find_column(table, r"sector$", r"industry$")
         out = {}
         for _, row in table.iterrows():
             ticker = str(row[symbol_col]).strip().replace(".", "-")
             out[ticker] = {
-                "company": str(row[name_col]).strip() if name_col is not None else ticker,
+                "company": str(row[name_col]).strip(),
                 "sector": str(row[sector_col]).strip() if sector_col is not None else "",
-                "industry": str(row[sub_col]).strip(),
+                "industry": str(row[sub_col]).strip() if sub_col is not None else "",
                 "indices": [index_name],
             }
         return out
-    raise ValueError(f"constituents table not found for {index_name}")
+    raise ValueError(f"constituents table not found for {index_name}; tables seen: {seen}")
 
 
 def load_universe() -> dict[str, dict]:

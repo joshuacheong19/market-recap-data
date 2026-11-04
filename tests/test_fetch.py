@@ -129,3 +129,14 @@ def test_universe_falls_back_to_saved_copy(monkeypatch, tmp_path):
     (tmp_path / "constituents.json").write_text('{"AAA": {"company": "A", "indices": ["S&P 500"]}}')
     monkeypatch.setattr(f, "http_get", lambda _: (_ for _ in ()).throw(OSError("down")))
     assert "AAA" in f.load_universe()
+
+
+def test_parse_constituents_ignores_footnotes_and_missing_industry():
+    rows = "".join(f"<tr><td>T{i}</td><td>Co {i}</td><td>Tech</td><td>Software</td></tr>" for i in range(100))
+    html = ("<table><tr><th>Ticker</th><th>Company</th><th>ICB Industry[14]</th>"
+            f"<th>ICB Subsector[14]</th></tr>{rows}</table>")
+    parsed = f.parse_constituents(html, "Nasdaq 100")
+    assert parsed["T1"]["industry"] == "Software" and parsed["T1"]["sector"] == "Tech"
+    bare = ("<table><tr><th>Symbol</th><th>Company name</th></tr>"
+            + "".join(f"<tr><td>T{i}</td><td>Co</td></tr>" for i in range(100)) + "</table>")
+    assert f.parse_constituents(bare, "Nasdaq 100")["T1"]["industry"] == ""
