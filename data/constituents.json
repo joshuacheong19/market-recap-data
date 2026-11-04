@@ -1,0 +1,4232 @@
+{
+ "MMM": {
+  "company": "3M",
+  "sector": "Industrials",
+  "industry": "Industrial Conglomerates",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "AOS": {
+  "company": "A. O. Smith",
+  "sector": "Industrials",
+  "industry": "Building Products",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "ABT": {
+  "company": "Abbott Laboratories",
+  "sector": "Health Care",
+  "industry": "Health Care Equipment",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "ABBV": {
+  "company": "AbbVie",
+  "sector": "Health Care",
+  "industry": "Biotechnology",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "ACN": {
+  "company": "Accenture",
+  "sector": "Information Technology",
+  "industry": "IT Consulting & Other Services",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "ADBE": {
+  "company": "Adobe Inc.",
+  "sector": "Information Technology",
+  "industry": "Application Software",
+  "indices": [
+   "S&P 500",
+   "Nasdaq 100"
+  ]
+ },
+ "AMD": {
+  "company": "Advanced Micro Devices",
+  "sector": "Information Technology",
+  "industry": "Semiconductors",
+  "indices": [
+   "S&P 500",
+   "Nasdaq 100"
+  ]
+ },
+ "AES": {
+  "company": "AES Corporation",
+  "sector": "Utilities",
+  "industry": "Independent Power Producers & Energy Traders",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "AFL": {
+  "company": "Aflac",
+  "sector": "Financials",
+  "industry": "Life & Health Insurance",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "A": {
+  "company": "Agilent Technologies",
+  "sector": "Health Care",
+  "industry": "Life Sciences Tools & Services",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "APD": {
+  "company": "Air Products",
+  "sector": "Materials",
+  "industry": "Industrial Gases",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "ABNB": {
+  "company": "Airbnb",
+  "sector": "Consumer Discretionary",
+  "industry": "Hotels, Resorts & Cruise Lines",
+  "indices": [
+   "S&P 500",
+   "Nasdaq 100"
+  ]
+ },
+ "AKAM": {
+  "company": "Akamai Technologies",
+  "sector": "Information Technology",
+  "industry": "Internet Services & Infrastructure",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "ALB": {
+  "company": "Albemarle Corporation",
+  "sector": "Materials",
+  "industry": "Specialty Chemicals",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "ARE": {
+  "company": "Alexandria Real Estate Equities",
+  "sector": "Real Estate",
+  "industry": "Office REITs",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "ALGN": {
+  "company": "Align Technology",
+  "sector": "Health Care",
+  "industry": "Health Care Supplies",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "ALLE": {
+  "company": "Allegion",
+  "sector": "Industrials",
+  "industry": "Building Products",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "LNT": {
+  "company": "Alliant Energy",
+  "sector": "Utilities",
+  "industry": "Electric Utilities",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "ALL": {
+  "company": "Allstate",
+  "sector": "Financials",
+  "industry": "Property & Casualty Insurance",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "GOOGL": {
+  "company": "Alphabet Inc. (Class A)",
+  "sector": "Communication Services",
+  "industry": "Interactive Media & Services",
+  "indices": [
+   "S&P 500",
+   "Nasdaq 100"
+  ]
+ },
+ "GOOG": {
+  "company": "Alphabet Inc. (Class C)",
+  "sector": "Communication Services",
+  "industry": "Interactive Media & Services",
+  "indices": [
+   "S&P 500",
+   "Nasdaq 100"
+  ]
+ },
+ "MO": {
+  "company": "Altria",
+  "sector": "Consumer Staples",
+  "industry": "Tobacco",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "AMZN": {
+  "company": "Amazon",
+  "sector": "Consumer Discretionary",
+  "industry": "Broadline Retail",
+  "indices": [
+   "S&P 500",
+   "Nasdaq 100"
+  ]
+ },
+ "AMCR": {
+  "company": "Amcor",
+  "sector": "Materials",
+  "industry": "Paper & Plastic Packaging Products & Materials",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "AEE": {
+  "company": "Ameren",
+  "sector": "Utilities",
+  "industry": "Multi-Utilities",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "AEP": {
+  "company": "American Electric Power",
+  "sector": "Utilities",
+  "industry": "Electric Utilities",
+  "indices": [
+   "S&P 500",
+   "Nasdaq 100"
+  ]
+ },
+ "AXP": {
+  "company": "American Express",
+  "sector": "Financials",
+  "industry": "Consumer Finance",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "AIG": {
+  "company": "American International Group",
+  "sector": "Financials",
+  "industry": "Multi-line Insurance",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "AMT": {
+  "company": "American Tower",
+  "sector": "Real Estate",
+  "industry": "Telecom Tower REITs",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "AWK": {
+  "company": "American Water Works",
+  "sector": "Utilities",
+  "industry": "Water Utilities",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "AMP": {
+  "company": "Ameriprise Financial",
+  "sector": "Financials",
+  "industry": "Asset Management & Custody Banks",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "AME": {
+  "company": "Ametek",
+  "sector": "Industrials",
+  "industry": "Electrical Components & Equipment",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "AMGN": {
+  "company": "Amgen",
+  "sector": "Health Care",
+  "industry": "Biotechnology",
+  "indices": [
+   "S&P 500",
+   "Nasdaq 100"
+  ]
+ },
+ "APH": {
+  "company": "Amphenol",
+  "sector": "Information Technology",
+  "industry": "Electronic Components",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "ADI": {
+  "company": "Analog Devices",
+  "sector": "Information Technology",
+  "industry": "Semiconductors",
+  "indices": [
+   "S&P 500",
+   "Nasdaq 100"
+  ]
+ },
+ "AON": {
+  "company": "Aon plc",
+  "sector": "Financials",
+  "industry": "Insurance Brokers",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "APA": {
+  "company": "APA Corporation",
+  "sector": "Energy",
+  "industry": "Oil & Gas Exploration & Production",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "APO": {
+  "company": "Apollo Global Management",
+  "sector": "Financials",
+  "industry": "Asset Management & Custody Banks",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "AAPL": {
+  "company": "Apple Inc.",
+  "sector": "Information Technology",
+  "industry": "Technology Hardware, Storage & Peripherals",
+  "indices": [
+   "S&P 500",
+   "Nasdaq 100"
+  ]
+ },
+ "AMAT": {
+  "company": "Applied Materials",
+  "sector": "Information Technology",
+  "industry": "Semiconductor Materials & Equipment",
+  "indices": [
+   "S&P 500",
+   "Nasdaq 100"
+  ]
+ },
+ "APP": {
+  "company": "AppLovin",
+  "sector": "Communication Services",
+  "industry": "Advertising",
+  "indices": [
+   "S&P 500",
+   "Nasdaq 100"
+  ]
+ },
+ "APTV": {
+  "company": "Aptiv",
+  "sector": "Consumer Discretionary",
+  "industry": "Automotive Parts & Equipment",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "ACGL": {
+  "company": "Arch Capital Group",
+  "sector": "Financials",
+  "industry": "Property & Casualty Insurance",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "ADM": {
+  "company": "Archer Daniels Midland",
+  "sector": "Consumer Staples",
+  "industry": "Agricultural Products & Services",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "ARES": {
+  "company": "Ares Management",
+  "sector": "Financials",
+  "industry": "Asset Management & Custody Banks",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "ANET": {
+  "company": "Arista Networks",
+  "sector": "Information Technology",
+  "industry": "Communications Equipment",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "AJG": {
+  "company": "Arthur J. Gallagher & Co.",
+  "sector": "Financials",
+  "industry": "Insurance Brokers",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "AIZ": {
+  "company": "Assurant",
+  "sector": "Financials",
+  "industry": "Multi-line Insurance",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "T": {
+  "company": "AT&T",
+  "sector": "Communication Services",
+  "industry": "Integrated Telecommunication Services",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "ATO": {
+  "company": "Atmos Energy",
+  "sector": "Utilities",
+  "industry": "Gas Utilities",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "ADSK": {
+  "company": "Autodesk",
+  "sector": "Information Technology",
+  "industry": "Application Software",
+  "indices": [
+   "S&P 500",
+   "Nasdaq 100"
+  ]
+ },
+ "ADP": {
+  "company": "Automatic Data Processing",
+  "sector": "Industrials",
+  "industry": "Human Resource & Employment Services",
+  "indices": [
+   "S&P 500",
+   "Nasdaq 100"
+  ]
+ },
+ "AZO": {
+  "company": "AutoZone",
+  "sector": "Consumer Discretionary",
+  "industry": "Automotive Retail",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "AVY": {
+  "company": "Avery Dennison",
+  "sector": "Materials",
+  "industry": "Paper & Plastic Packaging Products & Materials",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "AXON": {
+  "company": "Axon Enterprise",
+  "sector": "Industrials",
+  "industry": "Aerospace & Defense",
+  "indices": [
+   "S&P 500",
+   "Nasdaq 100"
+  ]
+ },
+ "BKR": {
+  "company": "Baker Hughes",
+  "sector": "Energy",
+  "industry": "Oil & Gas Equipment & Services",
+  "indices": [
+   "S&P 500",
+   "Nasdaq 100"
+  ]
+ },
+ "BALL": {
+  "company": "Ball Corporation",
+  "sector": "Materials",
+  "industry": "Metal, Glass & Plastic Containers",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "BAC": {
+  "company": "Bank of America",
+  "sector": "Financials",
+  "industry": "Diversified Banks",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "BAX": {
+  "company": "Baxter International",
+  "sector": "Health Care",
+  "industry": "Health Care Equipment",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "BDX": {
+  "company": "Becton Dickinson",
+  "sector": "Health Care",
+  "industry": "Health Care Equipment",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "BRK-B": {
+  "company": "Berkshire Hathaway",
+  "sector": "Financials",
+  "industry": "Multi-Sector Holdings",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "BBY": {
+  "company": "Best Buy",
+  "sector": "Consumer Discretionary",
+  "industry": "Computer & Electronics Retail",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "TECH": {
+  "company": "Bio-Techne",
+  "sector": "Health Care",
+  "industry": "Life Sciences Tools & Services",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "BIIB": {
+  "company": "Biogen",
+  "sector": "Health Care",
+  "industry": "Biotechnology",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "BLK": {
+  "company": "BlackRock",
+  "sector": "Financials",
+  "industry": "Asset Management & Custody Banks",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "BX": {
+  "company": "Blackstone Inc.",
+  "sector": "Financials",
+  "industry": "Asset Management & Custody Banks",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "XYZ": {
+  "company": "Block, Inc.",
+  "sector": "Financials",
+  "industry": "Transaction & Payment Processing Services",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "BE": {
+  "company": "Bloom Energy",
+  "sector": "Industrials",
+  "industry": "Electrical Components & Equipment",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "BNY": {
+  "company": "BNY Mellon",
+  "sector": "Financials",
+  "industry": "Asset Management & Custody Banks",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "BA": {
+  "company": "Boeing",
+  "sector": "Industrials",
+  "industry": "Aerospace & Defense",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "BKNG": {
+  "company": "Booking Holdings",
+  "sector": "Consumer Discretionary",
+  "industry": "Hotels, Resorts & Cruise Lines",
+  "indices": [
+   "S&P 500",
+   "Nasdaq 100"
+  ]
+ },
+ "BSX": {
+  "company": "Boston Scientific",
+  "sector": "Health Care",
+  "industry": "Health Care Equipment",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "BMY": {
+  "company": "Bristol Myers Squibb",
+  "sector": "Health Care",
+  "industry": "Pharmaceuticals",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "AVGO": {
+  "company": "Broadcom",
+  "sector": "Information Technology",
+  "industry": "Semiconductors",
+  "indices": [
+   "S&P 500",
+   "Nasdaq 100"
+  ]
+ },
+ "BR": {
+  "company": "Broadridge Financial Solutions",
+  "sector": "Industrials",
+  "industry": "Data Processing & Outsourced Services",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "BRO": {
+  "company": "Brown & Brown",
+  "sector": "Financials",
+  "industry": "Insurance Brokers",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "BF-B": {
+  "company": "Brown\u2013Forman",
+  "sector": "Consumer Staples",
+  "industry": "Distillers & Vintners",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "BG": {
+  "company": "Bunge Global",
+  "sector": "Consumer Staples",
+  "industry": "Agricultural Products & Services",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "BXP": {
+  "company": "BXP, Inc.",
+  "sector": "Real Estate",
+  "industry": "Office REITs",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "CHRW": {
+  "company": "C.H. Robinson",
+  "sector": "Industrials",
+  "industry": "Air Freight & Logistics",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "CDNS": {
+  "company": "Cadence Design Systems",
+  "sector": "Information Technology",
+  "industry": "Application Software",
+  "indices": [
+   "S&P 500",
+   "Nasdaq 100"
+  ]
+ },
+ "CPT": {
+  "company": "Camden Property Trust",
+  "sector": "Real Estate",
+  "industry": "Multi-Family Residential REITs",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "COF": {
+  "company": "Capital One",
+  "sector": "Financials",
+  "industry": "Consumer Finance",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "CAH": {
+  "company": "Cardinal Health",
+  "sector": "Health Care",
+  "industry": "Health Care Distributors",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "CCL": {
+  "company": "Carnival Corporation",
+  "sector": "Consumer Discretionary",
+  "industry": "Hotels, Resorts & Cruise Lines",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "CARR": {
+  "company": "Carrier Global",
+  "sector": "Industrials",
+  "industry": "Building Products",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "CVNA": {
+  "company": "Carvana",
+  "sector": "Consumer Discretionary",
+  "industry": "Automotive Retail",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "CASY": {
+  "company": "Casey's",
+  "sector": "Consumer Staples",
+  "industry": "Food Retail",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "CAT": {
+  "company": "Caterpillar Inc.",
+  "sector": "Industrials",
+  "industry": "Construction Machinery & Heavy Transportation Equipment",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "CBOE": {
+  "company": "Cboe Global Markets",
+  "sector": "Financials",
+  "industry": "Financial Exchanges & Data",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "CBRE": {
+  "company": "CBRE Group",
+  "sector": "Real Estate",
+  "industry": "Real Estate Services",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "CDW": {
+  "company": "CDW Corporation",
+  "sector": "Information Technology",
+  "industry": "Technology Distributors",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "COR": {
+  "company": "Cencora",
+  "sector": "Health Care",
+  "industry": "Health Care Distributors",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "CNC": {
+  "company": "Centene Corporation",
+  "sector": "Health Care",
+  "industry": "Managed Health Care",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "CNP": {
+  "company": "CenterPoint Energy",
+  "sector": "Utilities",
+  "industry": "Multi-Utilities",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "CF": {
+  "company": "CF Industries",
+  "sector": "Materials",
+  "industry": "Fertilizers & Agricultural Chemicals",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "CRL": {
+  "company": "Charles River Laboratories",
+  "sector": "Health Care",
+  "industry": "Life Sciences Tools & Services",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "SCHW": {
+  "company": "Charles Schwab Corporation",
+  "sector": "Financials",
+  "industry": "Investment Banking & Brokerage",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "CHTR": {
+  "company": "Charter Communications",
+  "sector": "Communication Services",
+  "industry": "Cable & Satellite",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "CVX": {
+  "company": "Chevron Corporation",
+  "sector": "Energy",
+  "industry": "Integrated Oil & Gas",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "CMG": {
+  "company": "Chipotle Mexican Grill",
+  "sector": "Consumer Discretionary",
+  "industry": "Restaurants",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "CB": {
+  "company": "Chubb Limited",
+  "sector": "Financials",
+  "industry": "Property & Casualty Insurance",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "CHD": {
+  "company": "Church & Dwight",
+  "sector": "Consumer Staples",
+  "industry": "Household Products",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "CIEN": {
+  "company": "Ciena",
+  "sector": "Information Technology",
+  "industry": "Communications Equipment",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "CI": {
+  "company": "Cigna",
+  "sector": "Health Care",
+  "industry": "Health Care Services",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "CINF": {
+  "company": "Cincinnati Financial",
+  "sector": "Financials",
+  "industry": "Property & Casualty Insurance",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "CTAS": {
+  "company": "Cintas",
+  "sector": "Industrials",
+  "industry": "Diversified Support Services",
+  "indices": [
+   "S&P 500",
+   "Nasdaq 100"
+  ]
+ },
+ "CSCO": {
+  "company": "Cisco",
+  "sector": "Information Technology",
+  "industry": "Communications Equipment",
+  "indices": [
+   "S&P 500",
+   "Nasdaq 100"
+  ]
+ },
+ "C": {
+  "company": "Citigroup",
+  "sector": "Financials",
+  "industry": "Diversified Banks",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "CFG": {
+  "company": "Citizens Financial Group",
+  "sector": "Financials",
+  "industry": "Regional Banks",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "CLX": {
+  "company": "Clorox",
+  "sector": "Consumer Staples",
+  "industry": "Household Products",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "CME": {
+  "company": "CME Group",
+  "sector": "Financials",
+  "industry": "Financial Exchanges & Data",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "CMS": {
+  "company": "CMS Energy",
+  "sector": "Utilities",
+  "industry": "Multi-Utilities",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "KO": {
+  "company": "Coca-Cola Company (The)",
+  "sector": "Consumer Staples",
+  "industry": "Soft Drinks & Non-alcoholic Beverages",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "CTSH": {
+  "company": "Cognizant",
+  "sector": "Information Technology",
+  "industry": "IT Consulting & Other Services",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "COHR": {
+  "company": "Coherent Corp.",
+  "sector": "Information Technology",
+  "industry": "Electronic Components",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "COIN": {
+  "company": "Coinbase",
+  "sector": "Financials",
+  "industry": "Financial Exchanges & Data",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "CL": {
+  "company": "Colgate-Palmolive",
+  "sector": "Consumer Staples",
+  "industry": "Household Products",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "CMCSA": {
+  "company": "Comcast",
+  "sector": "Communication Services",
+  "industry": "Cable & Satellite",
+  "indices": [
+   "S&P 500",
+   "Nasdaq 100"
+  ]
+ },
+ "FIX": {
+  "company": "Comfort Systems USA",
+  "sector": "Industrials",
+  "industry": "Construction & Engineering",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "COP": {
+  "company": "ConocoPhillips",
+  "sector": "Energy",
+  "industry": "Oil & Gas Exploration & Production",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "ED": {
+  "company": "Consolidated Edison",
+  "sector": "Utilities",
+  "industry": "Multi-Utilities",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "STZ": {
+  "company": "Constellation Brands",
+  "sector": "Consumer Staples",
+  "industry": "Distillers & Vintners",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "CEG": {
+  "company": "Constellation Energy",
+  "sector": "Utilities",
+  "industry": "Electric Utilities",
+  "indices": [
+   "S&P 500",
+   "Nasdaq 100"
+  ]
+ },
+ "COO": {
+  "company": "Cooper Companies (The)",
+  "sector": "Health Care",
+  "industry": "Health Care Supplies",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "CPRT": {
+  "company": "Copart",
+  "sector": "Industrials",
+  "industry": "Diversified Support Services",
+  "indices": [
+   "S&P 500",
+   "Nasdaq 100"
+  ]
+ },
+ "GLW": {
+  "company": "Corning Inc.",
+  "sector": "Information Technology",
+  "industry": "Electronic Components",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "CPAY": {
+  "company": "Corpay",
+  "sector": "Financials",
+  "industry": "Transaction & Payment Processing Services",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "CSGP": {
+  "company": "CoStar Group",
+  "sector": "Real Estate",
+  "industry": "Real Estate Services",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "COST": {
+  "company": "Costco",
+  "sector": "Consumer Staples",
+  "industry": "Consumer Staples Merchandise Retail",
+  "indices": [
+   "S&P 500",
+   "Nasdaq 100"
+  ]
+ },
+ "CRH": {
+  "company": "CRH plc",
+  "sector": "Materials",
+  "industry": "Construction Materials",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "CRWD": {
+  "company": "CrowdStrike",
+  "sector": "Information Technology",
+  "industry": "Systems Software",
+  "indices": [
+   "S&P 500",
+   "Nasdaq 100"
+  ]
+ },
+ "CCI": {
+  "company": "Crown Castle",
+  "sector": "Real Estate",
+  "industry": "Telecom Tower REITs",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "CSX": {
+  "company": "CSX Corporation",
+  "sector": "Industrials",
+  "industry": "Rail Transportation",
+  "indices": [
+   "S&P 500",
+   "Nasdaq 100"
+  ]
+ },
+ "CMI": {
+  "company": "Cummins",
+  "sector": "Industrials",
+  "industry": "Construction Machinery & Heavy Transportation Equipment",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "CVS": {
+  "company": "CVS Health",
+  "sector": "Health Care",
+  "industry": "Health Care Services",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "DHR": {
+  "company": "Danaher Corporation",
+  "sector": "Health Care",
+  "industry": "Life Sciences Tools & Services",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "DRI": {
+  "company": "Darden Restaurants",
+  "sector": "Consumer Discretionary",
+  "industry": "Restaurants",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "DDOG": {
+  "company": "Datadog",
+  "sector": "Information Technology",
+  "industry": "Application Software",
+  "indices": [
+   "S&P 500",
+   "Nasdaq 100"
+  ]
+ },
+ "DVA": {
+  "company": "DaVita",
+  "sector": "Health Care",
+  "industry": "Health Care Services",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "DECK": {
+  "company": "Deckers Brands",
+  "sector": "Consumer Discretionary",
+  "industry": "Footwear",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "DE": {
+  "company": "Deere & Company",
+  "sector": "Industrials",
+  "industry": "Agricultural & Farm Machinery",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "DELL": {
+  "company": "Dell Technologies",
+  "sector": "Information Technology",
+  "industry": "Technology Hardware, Storage & Peripherals",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "DAL": {
+  "company": "Delta Air Lines",
+  "sector": "Industrials",
+  "industry": "Passenger Airlines",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "DVN": {
+  "company": "Devon Energy",
+  "sector": "Energy",
+  "industry": "Oil & Gas Exploration & Production",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "DXCM": {
+  "company": "Dexcom",
+  "sector": "Health Care",
+  "industry": "Health Care Equipment",
+  "indices": [
+   "S&P 500",
+   "Nasdaq 100"
+  ]
+ },
+ "FANG": {
+  "company": "Diamondback Energy",
+  "sector": "Energy",
+  "industry": "Oil & Gas Exploration & Production",
+  "indices": [
+   "S&P 500",
+   "Nasdaq 100"
+  ]
+ },
+ "DLR": {
+  "company": "Digital Realty",
+  "sector": "Real Estate",
+  "industry": "Data Center REITs",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "DG": {
+  "company": "Dollar General",
+  "sector": "Consumer Staples",
+  "industry": "Consumer Staples Merchandise Retail",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "DLTR": {
+  "company": "Dollar Tree",
+  "sector": "Consumer Staples",
+  "industry": "Consumer Staples Merchandise Retail",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "D": {
+  "company": "Dominion Energy",
+  "sector": "Utilities",
+  "industry": "Multi-Utilities",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "DPZ": {
+  "company": "Domino's",
+  "sector": "Consumer Discretionary",
+  "industry": "Restaurants",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "DASH": {
+  "company": "DoorDash",
+  "sector": "Consumer Discretionary",
+  "industry": "Specialized Consumer Services",
+  "indices": [
+   "S&P 500",
+   "Nasdaq 100"
+  ]
+ },
+ "DOV": {
+  "company": "Dover Corporation",
+  "sector": "Industrials",
+  "industry": "Industrial Machinery & Supplies & Components",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "DOW": {
+  "company": "Dow Inc.",
+  "sector": "Materials",
+  "industry": "Commodity Chemicals",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "DHI": {
+  "company": "D. R. Horton",
+  "sector": "Consumer Discretionary",
+  "industry": "Homebuilding",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "DTE": {
+  "company": "DTE Energy",
+  "sector": "Utilities",
+  "industry": "Multi-Utilities",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "DUK": {
+  "company": "Duke Energy",
+  "sector": "Utilities",
+  "industry": "Electric Utilities",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "DD": {
+  "company": "DuPont",
+  "sector": "Industrials",
+  "industry": "Industrial Conglomerates",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "ETN": {
+  "company": "Eaton Corporation",
+  "sector": "Industrials",
+  "industry": "Electrical Components & Equipment",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "EBAY": {
+  "company": "eBay Inc.",
+  "sector": "Consumer Discretionary",
+  "industry": "Broadline Retail",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "ECHO": {
+  "company": "EchoStar",
+  "sector": "Communication Services",
+  "industry": "Wireless Telecommunication Services",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "ECL": {
+  "company": "Ecolab",
+  "sector": "Materials",
+  "industry": "Specialty Chemicals",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "EIX": {
+  "company": "Edison International",
+  "sector": "Utilities",
+  "industry": "Electric Utilities",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "EW": {
+  "company": "Edwards Lifesciences",
+  "sector": "Health Care",
+  "industry": "Health Care Equipment",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "ELV": {
+  "company": "Elevance Health",
+  "sector": "Health Care",
+  "industry": "Managed Health Care",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "EME": {
+  "company": "Emcor",
+  "sector": "Industrials",
+  "industry": "Construction & Engineering",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "EMR": {
+  "company": "Emerson Electric",
+  "sector": "Industrials",
+  "industry": "Electrical Components & Equipment",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "ETR": {
+  "company": "Entergy",
+  "sector": "Utilities",
+  "industry": "Electric Utilities",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "EOG": {
+  "company": "EOG Resources",
+  "sector": "Energy",
+  "industry": "Oil & Gas Exploration & Production",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "EQT": {
+  "company": "EQT Corporation",
+  "sector": "Energy",
+  "industry": "Oil & Gas Exploration & Production",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "EFX": {
+  "company": "Equifax",
+  "sector": "Industrials",
+  "industry": "Research & Consulting Services",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "EQIX": {
+  "company": "Equinix",
+  "sector": "Real Estate",
+  "industry": "Data Center REITs",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "ERIE": {
+  "company": "Erie Indemnity",
+  "sector": "Financials",
+  "industry": "Insurance Brokers",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "ESS": {
+  "company": "Essex Property Trust",
+  "sector": "Real Estate",
+  "industry": "Multi-Family Residential REITs",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "EL": {
+  "company": "Est\u00e9e Lauder Companies (The)",
+  "sector": "Consumer Staples",
+  "industry": "Personal Care Products",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "EG": {
+  "company": "Everest Group",
+  "sector": "Financials",
+  "industry": "Reinsurance",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "EVRG": {
+  "company": "Evergy",
+  "sector": "Utilities",
+  "industry": "Electric Utilities",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "P": {
+  "company": "Everpure",
+  "sector": "Information Technology",
+  "industry": "Technology Hardware, Storage & Peripherals",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "ES": {
+  "company": "Eversource Energy",
+  "sector": "Utilities",
+  "industry": "Electric Utilities",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "EXC": {
+  "company": "Exelon",
+  "sector": "Utilities",
+  "industry": "Electric Utilities",
+  "indices": [
+   "S&P 500",
+   "Nasdaq 100"
+  ]
+ },
+ "EXE": {
+  "company": "Expand Energy",
+  "sector": "Energy",
+  "industry": "Oil & Gas Exploration & Production",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "EXPE": {
+  "company": "Expedia Group",
+  "sector": "Consumer Discretionary",
+  "industry": "Hotels, Resorts & Cruise Lines",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "EXPD": {
+  "company": "Expeditors International",
+  "sector": "Industrials",
+  "industry": "Air Freight & Logistics",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "EXR": {
+  "company": "Extra Space Storage",
+  "sector": "Real Estate",
+  "industry": "Self-Storage REITs",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "XOM": {
+  "company": "ExxonMobil",
+  "sector": "Energy",
+  "industry": "Integrated Oil & Gas",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "FFIV": {
+  "company": "F5, Inc.",
+  "sector": "Information Technology",
+  "industry": "Communications Equipment",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "FDS": {
+  "company": "FactSet",
+  "sector": "Financials",
+  "industry": "Financial Exchanges & Data",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "FICO": {
+  "company": "Fair Isaac",
+  "sector": "Information Technology",
+  "industry": "Application Software",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "FAST": {
+  "company": "Fastenal",
+  "sector": "Industrials",
+  "industry": "Trading Companies & Distributors",
+  "indices": [
+   "S&P 500",
+   "Nasdaq 100"
+  ]
+ },
+ "FRT": {
+  "company": "Federal Realty Investment Trust",
+  "sector": "Real Estate",
+  "industry": "Retail REITs",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "FDX": {
+  "company": "FedEx",
+  "sector": "Industrials",
+  "industry": "Air Freight & Logistics",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "FDXF": {
+  "company": "FedEx Freight",
+  "sector": "Industrials",
+  "industry": "Cargo Ground Transportation",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "FERG": {
+  "company": "Ferguson Enterprises",
+  "sector": "Industrials",
+  "industry": "Trading Companies & Distributors",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "FIS": {
+  "company": "Fidelity National Information Services",
+  "sector": "Financials",
+  "industry": "Transaction & Payment Processing Services",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "FITB": {
+  "company": "Fifth Third Bancorp",
+  "sector": "Financials",
+  "industry": "Regional Banks",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "FSLR": {
+  "company": "First Solar",
+  "sector": "Information Technology",
+  "industry": "Semiconductors",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "FE": {
+  "company": "FirstEnergy",
+  "sector": "Utilities",
+  "industry": "Electric Utilities",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "FISV": {
+  "company": "Fiserv",
+  "sector": "Financials",
+  "industry": "Transaction & Payment Processing Services",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "FLEX": {
+  "company": "Flex Ltd.",
+  "sector": "Information Technology",
+  "industry": "Electronic Manufacturing Services",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "F": {
+  "company": "Ford Motor Company",
+  "sector": "Consumer Discretionary",
+  "industry": "Automobile Manufacturers",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "FTNT": {
+  "company": "Fortinet",
+  "sector": "Information Technology",
+  "industry": "Systems Software",
+  "indices": [
+   "S&P 500",
+   "Nasdaq 100"
+  ]
+ },
+ "FTV": {
+  "company": "Fortive",
+  "sector": "Industrials",
+  "industry": "Industrial Machinery & Supplies & Components",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "FOXA": {
+  "company": "Fox Corporation (Class A)",
+  "sector": "Communication Services",
+  "industry": "Broadcasting",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "FOX": {
+  "company": "Fox Corporation (Class B)",
+  "sector": "Communication Services",
+  "industry": "Broadcasting",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "BEN": {
+  "company": "Franklin Resources",
+  "sector": "Financials",
+  "industry": "Asset Management & Custody Banks",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "FCX": {
+  "company": "Freeport-McMoRan",
+  "sector": "Materials",
+  "industry": "Copper",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "GRMN": {
+  "company": "Garmin",
+  "sector": "Consumer Discretionary",
+  "industry": "Consumer Electronics",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "IT": {
+  "company": "Gartner",
+  "sector": "Information Technology",
+  "industry": "IT Consulting & Other Services",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "GE": {
+  "company": "GE Aerospace",
+  "sector": "Industrials",
+  "industry": "Aerospace & Defense",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "GEHC": {
+  "company": "GE HealthCare",
+  "sector": "Health Care",
+  "industry": "Health Care Equipment",
+  "indices": [
+   "S&P 500",
+   "Nasdaq 100"
+  ]
+ },
+ "GEV": {
+  "company": "GE Vernova",
+  "sector": "Industrials",
+  "industry": "Heavy Electrical Equipment",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "GEN": {
+  "company": "Gen Digital",
+  "sector": "Information Technology",
+  "industry": "Systems Software",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "GNRC": {
+  "company": "Generac",
+  "sector": "Industrials",
+  "industry": "Heavy Electrical Equipment",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "GD": {
+  "company": "General Dynamics",
+  "sector": "Industrials",
+  "industry": "Aerospace & Defense",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "GIS": {
+  "company": "General Mills",
+  "sector": "Consumer Staples",
+  "industry": "Packaged Foods & Meats",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "GM": {
+  "company": "General Motors",
+  "sector": "Consumer Discretionary",
+  "industry": "Automobile Manufacturers",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "GPC": {
+  "company": "Genuine Parts Company",
+  "sector": "Consumer Discretionary",
+  "industry": "Distributors",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "GILD": {
+  "company": "Gilead Sciences",
+  "sector": "Health Care",
+  "industry": "Biotechnology",
+  "indices": [
+   "S&P 500",
+   "Nasdaq 100"
+  ]
+ },
+ "GPN": {
+  "company": "Global Payments",
+  "sector": "Financials",
+  "industry": "Transaction & Payment Processing Services",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "GL": {
+  "company": "Globe Life",
+  "sector": "Financials",
+  "industry": "Life & Health Insurance",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "GDDY": {
+  "company": "GoDaddy",
+  "sector": "Information Technology",
+  "industry": "Internet Services & Infrastructure",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "GS": {
+  "company": "Goldman Sachs",
+  "sector": "Financials",
+  "industry": "Investment Banking & Brokerage",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "HAL": {
+  "company": "Halliburton",
+  "sector": "Energy",
+  "industry": "Oil & Gas Equipment & Services",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "HIG": {
+  "company": "Hartford (The)",
+  "sector": "Financials",
+  "industry": "Property & Casualty Insurance",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "HAS": {
+  "company": "Hasbro",
+  "sector": "Consumer Discretionary",
+  "industry": "Leisure Products",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "HCA": {
+  "company": "HCA Healthcare",
+  "sector": "Health Care",
+  "industry": "Health Care Facilities",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "DOC": {
+  "company": "Healthpeak Properties",
+  "sector": "Real Estate",
+  "industry": "Health Care REITs",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "HSIC": {
+  "company": "Henry Schein",
+  "sector": "Health Care",
+  "industry": "Health Care Distributors",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "HSY": {
+  "company": "Hershey Company (The)",
+  "sector": "Consumer Staples",
+  "industry": "Packaged Foods & Meats",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "HPE": {
+  "company": "Hewlett Packard Enterprise",
+  "sector": "Information Technology",
+  "industry": "Technology Hardware, Storage & Peripherals",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "HLT": {
+  "company": "Hilton Worldwide",
+  "sector": "Consumer Discretionary",
+  "industry": "Hotels, Resorts & Cruise Lines",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "HD": {
+  "company": "Home Depot (The)",
+  "sector": "Consumer Discretionary",
+  "industry": "Home Improvement Retail",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "HONA": {
+  "company": "Honeywell Aerospace",
+  "sector": "Industrials",
+  "industry": "Aerospace & Defense",
+  "indices": [
+   "S&P 500",
+   "Nasdaq 100"
+  ]
+ },
+ "HON": {
+  "company": "Honeywell Technologies",
+  "sector": "Industrials",
+  "industry": "Industrial Conglomerates",
+  "indices": [
+   "S&P 500",
+   "Nasdaq 100"
+  ]
+ },
+ "HRL": {
+  "company": "Hormel Foods",
+  "sector": "Consumer Staples",
+  "industry": "Packaged Foods & Meats",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "HST": {
+  "company": "Host Hotels & Resorts",
+  "sector": "Real Estate",
+  "industry": "Hotel & Resort REITs",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "HWM": {
+  "company": "Howmet Aerospace",
+  "sector": "Industrials",
+  "industry": "Aerospace & Defense",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "HPQ": {
+  "company": "HP Inc.",
+  "sector": "Information Technology",
+  "industry": "Technology Hardware, Storage & Peripherals",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "HUBB": {
+  "company": "Hubbell Incorporated",
+  "sector": "Industrials",
+  "industry": "Industrial Machinery & Supplies & Components",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "HUM": {
+  "company": "Humana",
+  "sector": "Health Care",
+  "industry": "Managed Health Care",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "HBAN": {
+  "company": "Huntington Bancshares",
+  "sector": "Financials",
+  "industry": "Regional Banks",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "HII": {
+  "company": "Huntington Ingalls Industries",
+  "sector": "Industrials",
+  "industry": "Aerospace & Defense",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "IBM": {
+  "company": "IBM",
+  "sector": "Information Technology",
+  "industry": "IT Consulting & Other Services",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "IEX": {
+  "company": "IDEX Corporation",
+  "sector": "Industrials",
+  "industry": "Industrial Machinery & Supplies & Components",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "IDXX": {
+  "company": "Idexx Laboratories",
+  "sector": "Health Care",
+  "industry": "Health Care Equipment",
+  "indices": [
+   "S&P 500",
+   "Nasdaq 100"
+  ]
+ },
+ "ITW": {
+  "company": "Illinois Tool Works",
+  "sector": "Industrials",
+  "industry": "Industrial Machinery & Supplies & Components",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "ILMN": {
+  "company": "Illumina, Inc.",
+  "sector": "Health Care",
+  "industry": "Life Sciences Tools & Services",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "INCY": {
+  "company": "Incyte",
+  "sector": "Health Care",
+  "industry": "Biotechnology",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "IR": {
+  "company": "Ingersoll Rand",
+  "sector": "Industrials",
+  "industry": "Industrial Machinery & Supplies & Components",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "PODD": {
+  "company": "Insulet Corporation",
+  "sector": "Health Care",
+  "industry": "Health Care Equipment",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "INTC": {
+  "company": "Intel",
+  "sector": "Information Technology",
+  "industry": "Semiconductors",
+  "indices": [
+   "S&P 500",
+   "Nasdaq 100"
+  ]
+ },
+ "IBKR": {
+  "company": "Interactive Brokers",
+  "sector": "Financials",
+  "industry": "Investment Banking & Brokerage",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "ICE": {
+  "company": "Intercontinental Exchange",
+  "sector": "Financials",
+  "industry": "Financial Exchanges & Data",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "IFF": {
+  "company": "International Flavors & Fragrances",
+  "sector": "Materials",
+  "industry": "Specialty Chemicals",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "IP": {
+  "company": "International Paper",
+  "sector": "Materials",
+  "industry": "Paper & Plastic Packaging Products & Materials",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "INTU": {
+  "company": "Intuit",
+  "sector": "Information Technology",
+  "industry": "Application Software",
+  "indices": [
+   "S&P 500",
+   "Nasdaq 100"
+  ]
+ },
+ "ISRG": {
+  "company": "Intuitive Surgical",
+  "sector": "Health Care",
+  "industry": "Health Care Equipment",
+  "indices": [
+   "S&P 500",
+   "Nasdaq 100"
+  ]
+ },
+ "IVZ": {
+  "company": "Invesco",
+  "sector": "Financials",
+  "industry": "Asset Management & Custody Banks",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "INVH": {
+  "company": "Invitation Homes",
+  "sector": "Real Estate",
+  "industry": "Single-Family Residential REITs",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "IQV": {
+  "company": "IQVIA",
+  "sector": "Health Care",
+  "industry": "Life Sciences Tools & Services",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "IRM": {
+  "company": "Iron Mountain",
+  "sector": "Real Estate",
+  "industry": "Other Specialized REITs",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "JBHT": {
+  "company": "J.B. Hunt",
+  "sector": "Industrials",
+  "industry": "Cargo Ground Transportation",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "JBL": {
+  "company": "Jabil",
+  "sector": "Information Technology",
+  "industry": "Electronic Manufacturing Services",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "JKHY": {
+  "company": "Jack Henry & Associates",
+  "sector": "Financials",
+  "industry": "Transaction & Payment Processing Services",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "J": {
+  "company": "Jacobs Solutions",
+  "sector": "Industrials",
+  "industry": "Construction & Engineering",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "JNJ": {
+  "company": "Johnson & Johnson",
+  "sector": "Health Care",
+  "industry": "Pharmaceuticals",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "JCI": {
+  "company": "Johnson Controls",
+  "sector": "Industrials",
+  "industry": "Building Products",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "JPM": {
+  "company": "JPMorgan Chase",
+  "sector": "Financials",
+  "industry": "Diversified Banks",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "KVUE": {
+  "company": "Kenvue",
+  "sector": "Consumer Staples",
+  "industry": "Personal Care Products",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "KDP": {
+  "company": "Keurig Dr Pepper",
+  "sector": "Consumer Staples",
+  "industry": "Soft Drinks & Non-alcoholic Beverages",
+  "indices": [
+   "S&P 500",
+   "Nasdaq 100"
+  ]
+ },
+ "KEY": {
+  "company": "KeyCorp",
+  "sector": "Financials",
+  "industry": "Regional Banks",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "KEYS": {
+  "company": "Keysight Technologies",
+  "sector": "Information Technology",
+  "industry": "Electronic Equipment & Instruments",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "KMB": {
+  "company": "Kimberly-Clark",
+  "sector": "Consumer Staples",
+  "industry": "Household Products",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "KIM": {
+  "company": "Kimco Realty",
+  "sector": "Real Estate",
+  "industry": "Retail REITs",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "KMI": {
+  "company": "Kinder Morgan",
+  "sector": "Energy",
+  "industry": "Oil & Gas Storage & Transportation",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "KKR": {
+  "company": "KKR & Co.",
+  "sector": "Financials",
+  "industry": "Asset Management & Custody Banks",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "KLAC": {
+  "company": "KLA Corporation",
+  "sector": "Information Technology",
+  "industry": "Semiconductor Materials & Equipment",
+  "indices": [
+   "S&P 500",
+   "Nasdaq 100"
+  ]
+ },
+ "KHC": {
+  "company": "Kraft Heinz",
+  "sector": "Consumer Staples",
+  "industry": "Packaged Foods & Meats",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "KR": {
+  "company": "Kroger",
+  "sector": "Consumer Staples",
+  "industry": "Food Retail",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "LHX": {
+  "company": "L3Harris",
+  "sector": "Industrials",
+  "industry": "Aerospace & Defense",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "LH": {
+  "company": "Labcorp",
+  "sector": "Health Care",
+  "industry": "Health Care Services",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "LRCX": {
+  "company": "Lam Research",
+  "sector": "Information Technology",
+  "industry": "Semiconductor Materials & Equipment",
+  "indices": [
+   "S&P 500",
+   "Nasdaq 100"
+  ]
+ },
+ "LVS": {
+  "company": "Las Vegas Sands",
+  "sector": "Consumer Discretionary",
+  "industry": "Casinos & Gaming",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "LDOS": {
+  "company": "Leidos",
+  "sector": "Industrials",
+  "industry": "Diversified Support Services",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "LEN": {
+  "company": "Lennar",
+  "sector": "Consumer Discretionary",
+  "industry": "Homebuilding",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "LII": {
+  "company": "Lennox International",
+  "sector": "Industrials",
+  "industry": "Building Products",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "LLY": {
+  "company": "Lilly (Eli)",
+  "sector": "Health Care",
+  "industry": "Pharmaceuticals",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "LIN": {
+  "company": "Linde plc",
+  "sector": "Materials",
+  "industry": "Industrial Gases",
+  "indices": [
+   "S&P 500",
+   "Nasdaq 100"
+  ]
+ },
+ "LYV": {
+  "company": "Live Nation Entertainment",
+  "sector": "Communication Services",
+  "industry": "Movies & Entertainment",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "LMT": {
+  "company": "Lockheed Martin",
+  "sector": "Industrials",
+  "industry": "Aerospace & Defense",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "L": {
+  "company": "Loews Corporation",
+  "sector": "Financials",
+  "industry": "Multi-line Insurance",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "LOW": {
+  "company": "Lowe's",
+  "sector": "Consumer Discretionary",
+  "industry": "Home Improvement Retail",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "LULU": {
+  "company": "Lululemon Athletica",
+  "sector": "Consumer Discretionary",
+  "industry": "Apparel, Accessories & Luxury Goods",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "LITE": {
+  "company": "Lumentum",
+  "sector": "Information Technology",
+  "industry": "Communications Equipment",
+  "indices": [
+   "S&P 500",
+   "Nasdaq 100"
+  ]
+ },
+ "LYB": {
+  "company": "LyondellBasell",
+  "sector": "Materials",
+  "industry": "Specialty Chemicals",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "MTB": {
+  "company": "M&T Bank",
+  "sector": "Financials",
+  "industry": "Regional Banks",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "MPC": {
+  "company": "Marathon Petroleum",
+  "sector": "Energy",
+  "industry": "Oil & Gas Refining & Marketing",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "MAR": {
+  "company": "Marriott International",
+  "sector": "Consumer Discretionary",
+  "industry": "Hotels, Resorts & Cruise Lines",
+  "indices": [
+   "S&P 500",
+   "Nasdaq 100"
+  ]
+ },
+ "MRSH": {
+  "company": "Marsh McLennan",
+  "sector": "Financials",
+  "industry": "Insurance Brokers",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "MLM": {
+  "company": "Martin Marietta Materials",
+  "sector": "Materials",
+  "industry": "Construction Materials",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "MRVL": {
+  "company": "Marvell Technology",
+  "sector": "Information Technology",
+  "industry": "Semiconductors",
+  "indices": [
+   "S&P 500",
+   "Nasdaq 100"
+  ]
+ },
+ "MAS": {
+  "company": "Masco",
+  "sector": "Industrials",
+  "industry": "Building Products",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "MA": {
+  "company": "Mastercard",
+  "sector": "Financials",
+  "industry": "Transaction & Payment Processing Services",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "MKC": {
+  "company": "McCormick & Company",
+  "sector": "Consumer Staples",
+  "industry": "Packaged Foods & Meats",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "MCD": {
+  "company": "McDonald's",
+  "sector": "Consumer Discretionary",
+  "industry": "Restaurants",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "MCK": {
+  "company": "McKesson",
+  "sector": "Health Care",
+  "industry": "Health Care Distributors",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "MDT": {
+  "company": "Medtronic",
+  "sector": "Health Care",
+  "industry": "Health Care Equipment",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "MRK": {
+  "company": "Merck & Co.",
+  "sector": "Health Care",
+  "industry": "Pharmaceuticals",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "META": {
+  "company": "Meta Platforms",
+  "sector": "Communication Services",
+  "industry": "Interactive Media & Services",
+  "indices": [
+   "S&P 500",
+   "Nasdaq 100"
+  ]
+ },
+ "MET": {
+  "company": "MetLife",
+  "sector": "Financials",
+  "industry": "Life & Health Insurance",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "MTD": {
+  "company": "Mettler Toledo",
+  "sector": "Health Care",
+  "industry": "Life Sciences Tools & Services",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "MGM": {
+  "company": "MGM Resorts",
+  "sector": "Consumer Discretionary",
+  "industry": "Casinos & Gaming",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "MCHP": {
+  "company": "Microchip Technology",
+  "sector": "Information Technology",
+  "industry": "Semiconductors",
+  "indices": [
+   "S&P 500",
+   "Nasdaq 100"
+  ]
+ },
+ "MU": {
+  "company": "Micron Technology",
+  "sector": "Information Technology",
+  "industry": "Semiconductors",
+  "indices": [
+   "S&P 500",
+   "Nasdaq 100"
+  ]
+ },
+ "MSFT": {
+  "company": "Microsoft",
+  "sector": "Information Technology",
+  "industry": "Systems Software",
+  "indices": [
+   "S&P 500",
+   "Nasdaq 100"
+  ]
+ },
+ "MAA": {
+  "company": "Mid-America Apartment Communities",
+  "sector": "Real Estate",
+  "industry": "Multi-Family Residential REITs",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "MRNA": {
+  "company": "Moderna",
+  "sector": "Health Care",
+  "industry": "Biotechnology",
+  "indices": [
+   "S&P 500",
+   "Nasdaq 100"
+  ]
+ },
+ "MDLZ": {
+  "company": "Mondelez International",
+  "sector": "Consumer Staples",
+  "industry": "Packaged Foods & Meats",
+  "indices": [
+   "S&P 500",
+   "Nasdaq 100"
+  ]
+ },
+ "MPWR": {
+  "company": "Monolithic Power Systems",
+  "sector": "Information Technology",
+  "industry": "Semiconductors",
+  "indices": [
+   "S&P 500",
+   "Nasdaq 100"
+  ]
+ },
+ "MNST": {
+  "company": "Monster Beverage",
+  "sector": "Consumer Staples",
+  "industry": "Soft Drinks & Non-alcoholic Beverages",
+  "indices": [
+   "S&P 500",
+   "Nasdaq 100"
+  ]
+ },
+ "MCO": {
+  "company": "Moody's Corporation",
+  "sector": "Financials",
+  "industry": "Financial Exchanges & Data",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "MS": {
+  "company": "Morgan Stanley",
+  "sector": "Financials",
+  "industry": "Investment Banking & Brokerage",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "MOS": {
+  "company": "Mosaic Company (The)",
+  "sector": "Materials",
+  "industry": "Fertilizers & Agricultural Chemicals",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "MSI": {
+  "company": "Motorola Solutions",
+  "sector": "Information Technology",
+  "industry": "Communications Equipment",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "MSCI": {
+  "company": "MSCI",
+  "sector": "Financials",
+  "industry": "Financial Exchanges & Data",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "NDAQ": {
+  "company": "Nasdaq, Inc.",
+  "sector": "Financials",
+  "industry": "Financial Exchanges & Data",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "NTAP": {
+  "company": "NetApp",
+  "sector": "Information Technology",
+  "industry": "Technology Hardware, Storage & Peripherals",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "NFLX": {
+  "company": "Netflix",
+  "sector": "Communication Services",
+  "industry": "Movies & Entertainment",
+  "indices": [
+   "S&P 500",
+   "Nasdaq 100"
+  ]
+ },
+ "NEM": {
+  "company": "Newmont",
+  "sector": "Materials",
+  "industry": "Gold",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "NWSA": {
+  "company": "News Corp (Class A)",
+  "sector": "Communication Services",
+  "industry": "Publishing",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "NWS": {
+  "company": "News Corp (Class B)",
+  "sector": "Communication Services",
+  "industry": "Publishing",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "NEE": {
+  "company": "NextEra Energy",
+  "sector": "Utilities",
+  "industry": "Multi-Utilities",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "NKE": {
+  "company": "Nike, Inc.",
+  "sector": "Consumer Discretionary",
+  "industry": "Apparel, Accessories & Luxury Goods",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "NI": {
+  "company": "NiSource",
+  "sector": "Utilities",
+  "industry": "Multi-Utilities",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "NDSN": {
+  "company": "Nordson Corporation",
+  "sector": "Industrials",
+  "industry": "Industrial Machinery & Supplies & Components",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "NSC": {
+  "company": "Norfolk Southern",
+  "sector": "Industrials",
+  "industry": "Rail Transportation",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "NTRS": {
+  "company": "Northern Trust",
+  "sector": "Financials",
+  "industry": "Asset Management & Custody Banks",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "NOC": {
+  "company": "Northrop Grumman",
+  "sector": "Industrials",
+  "industry": "Aerospace & Defense",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "NCLH": {
+  "company": "Norwegian Cruise Line Holdings",
+  "sector": "Consumer Discretionary",
+  "industry": "Hotels, Resorts & Cruise Lines",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "NRG": {
+  "company": "NRG Energy",
+  "sector": "Utilities",
+  "industry": "Independent Power Producers & Energy Traders",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "NUE": {
+  "company": "Nucor",
+  "sector": "Materials",
+  "industry": "Steel",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "NVDA": {
+  "company": "Nvidia",
+  "sector": "Information Technology",
+  "industry": "Semiconductors",
+  "indices": [
+   "S&P 500",
+   "Nasdaq 100"
+  ]
+ },
+ "NVR": {
+  "company": "NVR, Inc.",
+  "sector": "Consumer Discretionary",
+  "industry": "Homebuilding",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "NXPI": {
+  "company": "NXP Semiconductors",
+  "sector": "Information Technology",
+  "industry": "Semiconductors",
+  "indices": [
+   "S&P 500",
+   "Nasdaq 100"
+  ]
+ },
+ "ORLY": {
+  "company": "O'Reilly Automotive",
+  "sector": "Consumer Discretionary",
+  "industry": "Automotive Retail",
+  "indices": [
+   "S&P 500",
+   "Nasdaq 100"
+  ]
+ },
+ "OXY": {
+  "company": "Occidental Petroleum",
+  "sector": "Energy",
+  "industry": "Oil & Gas Exploration & Production",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "ODFL": {
+  "company": "Old Dominion",
+  "sector": "Industrials",
+  "industry": "Cargo Ground Transportation",
+  "indices": [
+   "S&P 500",
+   "Nasdaq 100"
+  ]
+ },
+ "OMC": {
+  "company": "Omnicom Group",
+  "sector": "Communication Services",
+  "industry": "Advertising",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "ON": {
+  "company": "ON Semiconductor",
+  "sector": "Information Technology",
+  "industry": "Semiconductors",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "OKE": {
+  "company": "Oneok",
+  "sector": "Energy",
+  "industry": "Oil & Gas Storage & Transportation",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "ORCL": {
+  "company": "Oracle Corporation",
+  "sector": "Information Technology",
+  "industry": "Application Software",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "OTIS": {
+  "company": "Otis Worldwide",
+  "sector": "Industrials",
+  "industry": "Industrial Machinery & Supplies & Components",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "PCAR": {
+  "company": "Paccar",
+  "sector": "Industrials",
+  "industry": "Construction Machinery & Heavy Transportation Equipment",
+  "indices": [
+   "S&P 500",
+   "Nasdaq 100"
+  ]
+ },
+ "PKG": {
+  "company": "Packaging Corporation of America",
+  "sector": "Materials",
+  "industry": "Paper & Plastic Packaging Products & Materials",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "PLTR": {
+  "company": "Palantir Technologies",
+  "sector": "Information Technology",
+  "industry": "Application Software",
+  "indices": [
+   "S&P 500",
+   "Nasdaq 100"
+  ]
+ },
+ "PANW": {
+  "company": "Palo Alto Networks",
+  "sector": "Information Technology",
+  "industry": "Systems Software",
+  "indices": [
+   "S&P 500",
+   "Nasdaq 100"
+  ]
+ },
+ "PH": {
+  "company": "Parker Hannifin",
+  "sector": "Industrials",
+  "industry": "Industrial Machinery & Supplies & Components",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "PAYX": {
+  "company": "Paychex",
+  "sector": "Industrials",
+  "industry": "Human Resource & Employment Services",
+  "indices": [
+   "S&P 500",
+   "Nasdaq 100"
+  ]
+ },
+ "PYPL": {
+  "company": "PayPal",
+  "sector": "Financials",
+  "industry": "Transaction & Payment Processing Services",
+  "indices": [
+   "S&P 500",
+   "Nasdaq 100"
+  ]
+ },
+ "PNR": {
+  "company": "Pentair",
+  "sector": "Industrials",
+  "industry": "Industrial Machinery & Supplies & Components",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "PEP": {
+  "company": "PepsiCo",
+  "sector": "Consumer Staples",
+  "industry": "Soft Drinks & Non-alcoholic Beverages",
+  "indices": [
+   "S&P 500",
+   "Nasdaq 100"
+  ]
+ },
+ "PFE": {
+  "company": "Pfizer",
+  "sector": "Health Care",
+  "industry": "Pharmaceuticals",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "PCG": {
+  "company": "PG&E Corporation",
+  "sector": "Utilities",
+  "industry": "Multi-Utilities",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "PM": {
+  "company": "Philip Morris International",
+  "sector": "Consumer Staples",
+  "industry": "Tobacco",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "PSX": {
+  "company": "Phillips 66",
+  "sector": "Energy",
+  "industry": "Oil & Gas Refining & Marketing",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "PNW": {
+  "company": "Pinnacle West Capital",
+  "sector": "Utilities",
+  "industry": "Multi-Utilities",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "PNC": {
+  "company": "PNC Financial Services",
+  "sector": "Financials",
+  "industry": "Diversified Banks",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "PPG": {
+  "company": "PPG Industries",
+  "sector": "Materials",
+  "industry": "Specialty Chemicals",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "PPL": {
+  "company": "PPL Corporation",
+  "sector": "Utilities",
+  "industry": "Electric Utilities",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "PFG": {
+  "company": "Principal Financial Group",
+  "sector": "Financials",
+  "industry": "Life & Health Insurance",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "PG": {
+  "company": "Procter & Gamble",
+  "sector": "Consumer Staples",
+  "industry": "Personal Care Products",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "PGR": {
+  "company": "Progressive Corporation",
+  "sector": "Financials",
+  "industry": "Property & Casualty Insurance",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "PLD": {
+  "company": "Prologis",
+  "sector": "Real Estate",
+  "industry": "Industrial REITs",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "PRU": {
+  "company": "Prudential Financial",
+  "sector": "Financials",
+  "industry": "Life & Health Insurance",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "PTC": {
+  "company": "PTC Inc.",
+  "sector": "Information Technology",
+  "industry": "Application Software",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "PEG": {
+  "company": "Public Service Enterprise Group",
+  "sector": "Utilities",
+  "industry": "Electric Utilities",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "PSA": {
+  "company": "Public Storage",
+  "sector": "Real Estate",
+  "industry": "Self-Storage REITs",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "PHM": {
+  "company": "PulteGroup",
+  "sector": "Consumer Discretionary",
+  "industry": "Homebuilding",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "Q": {
+  "company": "Qnity Electronics",
+  "sector": "Information Technology",
+  "industry": "Semiconductor Materials & Equipment",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "QCOM": {
+  "company": "Qualcomm",
+  "sector": "Information Technology",
+  "industry": "Semiconductors",
+  "indices": [
+   "S&P 500",
+   "Nasdaq 100"
+  ]
+ },
+ "PWR": {
+  "company": "Quanta Services",
+  "sector": "Industrials",
+  "industry": "Construction & Engineering",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "DGX": {
+  "company": "Quest Diagnostics",
+  "sector": "Health Care",
+  "industry": "Health Care Services",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "RL": {
+  "company": "Ralph Lauren Corporation",
+  "sector": "Consumer Discretionary",
+  "industry": "Apparel, Accessories & Luxury Goods",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "RJF": {
+  "company": "Raymond James Financial",
+  "sector": "Financials",
+  "industry": "Investment Banking & Brokerage",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "RDDT": {
+  "company": "Reddit",
+  "sector": "Communication Services",
+  "industry": "Interactive Media & Services",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "O": {
+  "company": "Realty Income",
+  "sector": "Real Estate",
+  "industry": "Retail REITs",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "REG": {
+  "company": "Regency Centers",
+  "sector": "Real Estate",
+  "industry": "Retail REITs",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "REGN": {
+  "company": "Regeneron Pharmaceuticals",
+  "sector": "Health Care",
+  "industry": "Biotechnology",
+  "indices": [
+   "S&P 500",
+   "Nasdaq 100"
+  ]
+ },
+ "RF": {
+  "company": "Regions Financial Corporation",
+  "sector": "Financials",
+  "industry": "Regional Banks",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "RSG": {
+  "company": "Republic Services",
+  "sector": "Industrials",
+  "industry": "Environmental & Facilities Services",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "RMD": {
+  "company": "ResMed",
+  "sector": "Health Care",
+  "industry": "Health Care Equipment",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "RVTY": {
+  "company": "Revvity",
+  "sector": "Health Care",
+  "industry": "Health Care Equipment",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "HOOD": {
+  "company": "Robinhood Markets",
+  "sector": "Financials",
+  "industry": "Investment Banking & Brokerage",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "ROK": {
+  "company": "Rockwell Automation",
+  "sector": "Industrials",
+  "industry": "Electrical Components & Equipment",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "ROL": {
+  "company": "Rollins, Inc.",
+  "sector": "Industrials",
+  "industry": "Environmental & Facilities Services",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "ROP": {
+  "company": "Roper Technologies",
+  "sector": "Information Technology",
+  "industry": "Electronic Equipment & Instruments",
+  "indices": [
+   "S&P 500",
+   "Nasdaq 100"
+  ]
+ },
+ "ROST": {
+  "company": "Ross Stores",
+  "sector": "Consumer Discretionary",
+  "industry": "Apparel Retail",
+  "indices": [
+   "S&P 500",
+   "Nasdaq 100"
+  ]
+ },
+ "RCL": {
+  "company": "Royal Caribbean Group",
+  "sector": "Consumer Discretionary",
+  "industry": "Hotels, Resorts & Cruise Lines",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "RTX": {
+  "company": "RTX Corporation",
+  "sector": "Industrials",
+  "industry": "Aerospace & Defense",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "SPGI": {
+  "company": "S&P Global",
+  "sector": "Financials",
+  "industry": "Financial Exchanges & Data",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "CRM": {
+  "company": "Salesforce",
+  "sector": "Information Technology",
+  "industry": "Application Software",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "SNDK": {
+  "company": "Sandisk",
+  "sector": "Information Technology",
+  "industry": "Technology Hardware, Storage & Peripherals",
+  "indices": [
+   "S&P 500",
+   "Nasdaq 100"
+  ]
+ },
+ "SBAC": {
+  "company": "SBA Communications",
+  "sector": "Real Estate",
+  "industry": "Telecom Tower REITs",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "SLB": {
+  "company": "Schlumberger",
+  "sector": "Energy",
+  "industry": "Oil & Gas Equipment & Services",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "STX": {
+  "company": "Seagate Technology",
+  "sector": "Information Technology",
+  "industry": "Technology Hardware, Storage & Peripherals",
+  "indices": [
+   "S&P 500",
+   "Nasdaq 100"
+  ]
+ },
+ "SRE": {
+  "company": "Sempra",
+  "sector": "Utilities",
+  "industry": "Multi-Utilities",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "NOW": {
+  "company": "ServiceNow",
+  "sector": "Information Technology",
+  "industry": "Systems Software",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "SHW": {
+  "company": "Sherwin-Williams",
+  "sector": "Materials",
+  "industry": "Specialty Chemicals",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "SPG": {
+  "company": "Simon Property Group",
+  "sector": "Real Estate",
+  "industry": "Retail REITs",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "SKYD": {
+  "company": "Skydance",
+  "sector": "Communication Services",
+  "industry": "Movies & Entertainment",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "SWKS": {
+  "company": "Skyworks Solutions",
+  "sector": "Information Technology",
+  "industry": "Semiconductors",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "SJM": {
+  "company": "J.M. Smucker Company (The)",
+  "sector": "Consumer Staples",
+  "industry": "Packaged Foods & Meats",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "SW": {
+  "company": "Smurfit Westrock",
+  "sector": "Materials",
+  "industry": "Paper & Plastic Packaging Products & Materials",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "SNA": {
+  "company": "Snap-on",
+  "sector": "Industrials",
+  "industry": "Industrial Machinery & Supplies & Components",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "SOLV": {
+  "company": "Solventum",
+  "sector": "Health Care",
+  "industry": "Health Care Technology",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "SO": {
+  "company": "Southern Company",
+  "sector": "Utilities",
+  "industry": "Electric Utilities",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "LUV": {
+  "company": "Southwest Airlines",
+  "sector": "Industrials",
+  "industry": "Passenger Airlines",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "SWK": {
+  "company": "Stanley Black & Decker",
+  "sector": "Industrials",
+  "industry": "Industrial Machinery & Supplies & Components",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "SBUX": {
+  "company": "Starbucks",
+  "sector": "Consumer Discretionary",
+  "industry": "Restaurants",
+  "indices": [
+   "S&P 500",
+   "Nasdaq 100"
+  ]
+ },
+ "STT": {
+  "company": "State Street Corporation",
+  "sector": "Financials",
+  "industry": "Asset Management & Custody Banks",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "STLD": {
+  "company": "Steel Dynamics",
+  "sector": "Materials",
+  "industry": "Steel",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "STE": {
+  "company": "Steris",
+  "sector": "Health Care",
+  "industry": "Health Care Equipment",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "SYK": {
+  "company": "Stryker Corporation",
+  "sector": "Health Care",
+  "industry": "Health Care Equipment",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "SMCI": {
+  "company": "Supermicro",
+  "sector": "Information Technology",
+  "industry": "Technology Hardware, Storage & Peripherals",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "SYF": {
+  "company": "Synchrony Financial",
+  "sector": "Financials",
+  "industry": "Consumer Finance",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "SNPS": {
+  "company": "Synopsys",
+  "sector": "Information Technology",
+  "industry": "Application Software",
+  "indices": [
+   "S&P 500",
+   "Nasdaq 100"
+  ]
+ },
+ "SYY": {
+  "company": "Sysco",
+  "sector": "Consumer Staples",
+  "industry": "Food Distributors",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "TMUS": {
+  "company": "T-Mobile US",
+  "sector": "Communication Services",
+  "industry": "Wireless Telecommunication Services",
+  "indices": [
+   "S&P 500",
+   "Nasdaq 100"
+  ]
+ },
+ "TROW": {
+  "company": "T. Rowe Price",
+  "sector": "Financials",
+  "industry": "Asset Management & Custody Banks",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "TTWO": {
+  "company": "Take-Two Interactive",
+  "sector": "Communication Services",
+  "industry": "Interactive Home Entertainment",
+  "indices": [
+   "S&P 500",
+   "Nasdaq 100"
+  ]
+ },
+ "TPR": {
+  "company": "Tapestry, Inc.",
+  "sector": "Consumer Discretionary",
+  "industry": "Apparel, Accessories & Luxury Goods",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "TRGP": {
+  "company": "Targa Resources",
+  "sector": "Energy",
+  "industry": "Oil & Gas Storage & Transportation",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "TGT": {
+  "company": "Target Corporation",
+  "sector": "Consumer Staples",
+  "industry": "Consumer Staples Merchandise Retail",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "TEL": {
+  "company": "TE Connectivity",
+  "sector": "Information Technology",
+  "industry": "Electronic Manufacturing Services",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "TDY": {
+  "company": "Teledyne Technologies",
+  "sector": "Information Technology",
+  "industry": "Electronic Equipment & Instruments",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "TER": {
+  "company": "Teradyne",
+  "sector": "Information Technology",
+  "industry": "Semiconductor Materials & Equipment",
+  "indices": [
+   "S&P 500",
+   "Nasdaq 100"
+  ]
+ },
+ "TSLA": {
+  "company": "Tesla, Inc.",
+  "sector": "Consumer Discretionary",
+  "industry": "Automobile Manufacturers",
+  "indices": [
+   "S&P 500",
+   "Nasdaq 100"
+  ]
+ },
+ "TXN": {
+  "company": "Texas Instruments",
+  "sector": "Information Technology",
+  "industry": "Semiconductors",
+  "indices": [
+   "S&P 500",
+   "Nasdaq 100"
+  ]
+ },
+ "TPL": {
+  "company": "Texas Pacific Land Corporation",
+  "sector": "Energy",
+  "industry": "Oil & Gas Exploration & Production",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "TXT": {
+  "company": "Textron",
+  "sector": "Industrials",
+  "industry": "Aerospace & Defense",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "TMO": {
+  "company": "Thermo Fisher Scientific",
+  "sector": "Health Care",
+  "industry": "Life Sciences Tools & Services",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "TJX": {
+  "company": "TJX Companies",
+  "sector": "Consumer Discretionary",
+  "industry": "Apparel Retail",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "TKO": {
+  "company": "TKO Group Holdings",
+  "sector": "Communication Services",
+  "industry": "Movies & Entertainment",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "TSCO": {
+  "company": "Tractor Supply",
+  "sector": "Consumer Discretionary",
+  "industry": "Other Specialty Retail",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "TT": {
+  "company": "Trane Technologies",
+  "sector": "Industrials",
+  "industry": "Building Products",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "TDG": {
+  "company": "TransDigm Group",
+  "sector": "Industrials",
+  "industry": "Aerospace & Defense",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "TRV": {
+  "company": "Travelers Companies (The)",
+  "sector": "Financials",
+  "industry": "Property & Casualty Insurance",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "TRMB": {
+  "company": "Trimble Inc.",
+  "sector": "Information Technology",
+  "industry": "Application Software",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "TFC": {
+  "company": "Truist Financial",
+  "sector": "Financials",
+  "industry": "Diversified Banks",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "TWLO": {
+  "company": "Twilio",
+  "sector": "Information Technology",
+  "industry": "Systems Software",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "TYL": {
+  "company": "Tyler Technologies",
+  "sector": "Information Technology",
+  "industry": "Application Software",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "TSN": {
+  "company": "Tyson Foods",
+  "sector": "Consumer Staples",
+  "industry": "Packaged Foods & Meats",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "USB": {
+  "company": "U.S. Bancorp",
+  "sector": "Financials",
+  "industry": "Diversified Banks",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "UBER": {
+  "company": "Uber",
+  "sector": "Industrials",
+  "industry": "Passenger Ground Transportation",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "UDR": {
+  "company": "UDR, Inc.",
+  "sector": "Real Estate",
+  "industry": "Multi-Family Residential REITs",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "ULTA": {
+  "company": "Ulta Beauty",
+  "sector": "Consumer Discretionary",
+  "industry": "Other Specialty Retail",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "UNP": {
+  "company": "Union Pacific Corporation",
+  "sector": "Industrials",
+  "industry": "Rail Transportation",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "UAL": {
+  "company": "United Airlines Holdings",
+  "sector": "Industrials",
+  "industry": "Passenger Airlines",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "UPS": {
+  "company": "United Parcel Service",
+  "sector": "Industrials",
+  "industry": "Air Freight & Logistics",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "URI": {
+  "company": "United Rentals",
+  "sector": "Industrials",
+  "industry": "Trading Companies & Distributors",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "UNH": {
+  "company": "UnitedHealth Group",
+  "sector": "Health Care",
+  "industry": "Managed Health Care",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "UHS": {
+  "company": "Universal Health Services",
+  "sector": "Health Care",
+  "industry": "Health Care Facilities",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "VLO": {
+  "company": "Valero Energy",
+  "sector": "Energy",
+  "industry": "Oil & Gas Refining & Marketing",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "VEEV": {
+  "company": "Veeva Systems",
+  "sector": "Health Care",
+  "industry": "Health Care Technology",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "VTR": {
+  "company": "Ventas",
+  "sector": "Real Estate",
+  "industry": "Health Care REITs",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "VLTO": {
+  "company": "Veralto",
+  "sector": "Industrials",
+  "industry": "Environmental & Facilities Services",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "VRSN": {
+  "company": "Verisign",
+  "sector": "Information Technology",
+  "industry": "Internet Services & Infrastructure",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "VRSK": {
+  "company": "Verisk Analytics",
+  "sector": "Industrials",
+  "industry": "Research & Consulting Services",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "VZ": {
+  "company": "Verizon",
+  "sector": "Communication Services",
+  "industry": "Integrated Telecommunication Services",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "VRTX": {
+  "company": "Vertex Pharmaceuticals",
+  "sector": "Health Care",
+  "industry": "Biotechnology",
+  "indices": [
+   "S&P 500",
+   "Nasdaq 100"
+  ]
+ },
+ "VRT": {
+  "company": "Vertiv",
+  "sector": "Industrials",
+  "industry": "Electrical Components & Equipment",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "VTRS": {
+  "company": "Viatris",
+  "sector": "Health Care",
+  "industry": "Pharmaceuticals",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "VICI": {
+  "company": "Vici Properties",
+  "sector": "Real Estate",
+  "industry": "Hotel & Resort REITs",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "V": {
+  "company": "Visa Inc.",
+  "sector": "Financials",
+  "industry": "Transaction & Payment Processing Services",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "VST": {
+  "company": "Vistra Corp.",
+  "sector": "Utilities",
+  "industry": "Electric Utilities",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "VMRK": {
+  "company": "Vivmark Residential",
+  "sector": "Real Estate",
+  "industry": "Multi-Family Residential REITs",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "VMC": {
+  "company": "Vulcan Materials Company",
+  "sector": "Materials",
+  "industry": "Construction Materials",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "VYLR": {
+  "company": "Vylor",
+  "sector": "Consumer Staples",
+  "industry": "Agricultural Products & Services",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "WRB": {
+  "company": "W. R. Berkley Corporation",
+  "sector": "Financials",
+  "industry": "Property & Casualty Insurance",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "GWW": {
+  "company": "W. W. Grainger",
+  "sector": "Industrials",
+  "industry": "Industrial Machinery & Supplies & Components",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "WAB": {
+  "company": "Wabtec",
+  "sector": "Industrials",
+  "industry": "Construction Machinery & Heavy Transportation Equipment",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "WMT": {
+  "company": "Walmart",
+  "sector": "Consumer Staples",
+  "industry": "Consumer Staples Merchandise Retail",
+  "indices": [
+   "S&P 500",
+   "Nasdaq 100"
+  ]
+ },
+ "DIS": {
+  "company": "Walt Disney Company (The)",
+  "sector": "Communication Services",
+  "industry": "Movies & Entertainment",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "WM": {
+  "company": "Waste Management",
+  "sector": "Industrials",
+  "industry": "Environmental & Facilities Services",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "WAT": {
+  "company": "Waters Corporation",
+  "sector": "Health Care",
+  "industry": "Life Sciences Tools & Services",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "WEC": {
+  "company": "WEC Energy Group",
+  "sector": "Utilities",
+  "industry": "Electric Utilities",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "WFC": {
+  "company": "Wells Fargo",
+  "sector": "Financials",
+  "industry": "Diversified Banks",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "WELL": {
+  "company": "Welltower",
+  "sector": "Real Estate",
+  "industry": "Health Care REITs",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "WST": {
+  "company": "West Pharmaceutical Services",
+  "sector": "Health Care",
+  "industry": "Health Care Supplies",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "WDC": {
+  "company": "Western Digital",
+  "sector": "Information Technology",
+  "industry": "Technology Hardware, Storage & Peripherals",
+  "indices": [
+   "S&P 500",
+   "Nasdaq 100"
+  ]
+ },
+ "WY": {
+  "company": "Weyerhaeuser",
+  "sector": "Real Estate",
+  "industry": "Timber REITs",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "WSM": {
+  "company": "Williams-Sonoma, Inc.",
+  "sector": "Consumer Discretionary",
+  "industry": "Homefurnishing Retail",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "WMB": {
+  "company": "Williams Companies",
+  "sector": "Energy",
+  "industry": "Oil & Gas Storage & Transportation",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "WTW": {
+  "company": "Willis Towers Watson",
+  "sector": "Financials",
+  "industry": "Insurance Brokers",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "WDAY": {
+  "company": "Workday, Inc.",
+  "sector": "Information Technology",
+  "industry": "Application Software",
+  "indices": [
+   "S&P 500",
+   "Nasdaq 100"
+  ]
+ },
+ "WYNN": {
+  "company": "Wynn Resorts",
+  "sector": "Consumer Discretionary",
+  "industry": "Casinos & Gaming",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "XEL": {
+  "company": "Xcel Energy",
+  "sector": "Utilities",
+  "industry": "Multi-Utilities",
+  "indices": [
+   "S&P 500",
+   "Nasdaq 100"
+  ]
+ },
+ "XYL": {
+  "company": "Xylem Inc.",
+  "sector": "Industrials",
+  "industry": "Industrial Machinery & Supplies & Components",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "YUM": {
+  "company": "Yum! Brands",
+  "sector": "Consumer Discretionary",
+  "industry": "Restaurants",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "ZBRA": {
+  "company": "Zebra Technologies",
+  "sector": "Information Technology",
+  "industry": "Electronic Equipment & Instruments",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "ZBH": {
+  "company": "Zimmer Biomet",
+  "sector": "Health Care",
+  "industry": "Health Care Equipment",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "ZTS": {
+  "company": "Zoetis",
+  "sector": "Health Care",
+  "industry": "Pharmaceuticals",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "ALNY": {
+  "company": "Alnylam Pharmaceuticals",
+  "sector": "Health Care",
+  "industry": "Biotechnology",
+  "indices": [
+   "Nasdaq 100"
+  ]
+ },
+ "ARM": {
+  "company": "Arm Holdings",
+  "sector": "Technology",
+  "industry": "Semiconductors",
+  "indices": [
+   "Nasdaq 100"
+  ]
+ },
+ "ASML": {
+  "company": "ASML Holding",
+  "sector": "Technology",
+  "industry": "Industrial Machinery",
+  "indices": [
+   "Nasdaq 100"
+  ]
+ },
+ "ALAB": {
+  "company": "Astera Labs",
+  "sector": "Technology",
+  "industry": "Semiconductors",
+  "indices": [
+   "Nasdaq 100"
+  ]
+ },
+ "CCEP": {
+  "company": "Coca-Cola Europacific Partners",
+  "sector": "Consumer Staples",
+  "industry": "Soft Drinks",
+  "indices": [
+   "Nasdaq 100"
+  ]
+ },
+ "CRWV": {
+  "company": "CoreWeave",
+  "sector": "Technology",
+  "industry": "Computer Services",
+  "indices": [
+   "Nasdaq 100"
+  ]
+ },
+ "FER": {
+  "company": "Ferrovial",
+  "sector": "Industrials",
+  "industry": "Military, Government, Technical",
+  "indices": [
+   "Nasdaq 100"
+  ]
+ },
+ "MELI": {
+  "company": "Mercado Libre",
+  "sector": "Consumer Discretionary",
+  "industry": "Catalog/Specialty Distribution",
+  "indices": [
+   "Nasdaq 100"
+  ]
+ },
+ "MSTR": {
+  "company": "MicroStrategy",
+  "sector": "Technology",
+  "industry": "Software",
+  "indices": [
+   "Nasdaq 100"
+  ]
+ },
+ "NBIS": {
+  "company": "Nebius Group",
+  "sector": "Technology",
+  "industry": "Computer Services",
+  "indices": [
+   "Nasdaq 100"
+  ]
+ },
+ "PDD": {
+  "company": "PDD Holdings",
+  "sector": "Technology",
+  "industry": "EDP Services",
+  "indices": [
+   "Nasdaq 100"
+  ]
+ },
+ "RKLB": {
+  "company": "Rocket Lab",
+  "sector": "Industrials",
+  "industry": "Aerospace",
+  "indices": [
+   "Nasdaq 100"
+  ]
+ },
+ "SHOP": {
+  "company": "Shopify",
+  "sector": "Technology",
+  "industry": "Software",
+  "indices": [
+   "Nasdaq 100"
+  ]
+ },
+ "SPCX": {
+  "company": "SpaceX",
+  "sector": "Telecommunications",
+  "industry": "Telecommunications Services",
+  "indices": [
+   "Nasdaq 100"
+  ]
+ },
+ "TRI": {
+  "company": "Thomson Reuters",
+  "sector": "Technology",
+  "industry": "Software",
+  "indices": [
+   "Nasdaq 100"
+  ]
+ }
+}

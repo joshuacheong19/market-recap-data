@@ -1,6 +1,6 @@
 {
   "session_date": "2026-11-03",
-  "generated_at_utc": "2026-11-04T03:54:10+00:00",
+  "generated_at_utc": "2026-11-04T03:55:01+00:00",
   "price_source": "Yahoo Finance via yfinance (unofficial; unadjusted closes)",
   "equities": {
     "SPY": {
@@ -136,50 +136,50 @@
       "name": "COMEX gold",
       "symbol": "GC=F",
       "unit": "USD/oz",
-      "close": 3949.0,
+      "close": 3947.3999,
       "previous_close": 3969.6001,
       "previous_date": "2026-11-02",
-      "change_pct": -0.52
+      "change_pct": -0.56
     },
     {
       "group": "Precious metals",
       "name": "COMEX silver",
       "symbol": "SI=F",
       "unit": "USD/oz",
-      "close": 49.325,
+      "close": 49.27,
       "previous_close": 50.72,
       "previous_date": "2026-11-02",
-      "change_pct": -2.75
+      "change_pct": -2.86
     },
     {
       "group": "Precious metals",
       "name": "NYMEX platinum",
       "symbol": "PL=F",
       "unit": "USD/oz",
-      "close": 1398.5,
+      "close": 1398.0,
       "previous_close": 1459.0,
       "previous_date": "2026-11-02",
-      "change_pct": -4.15
+      "change_pct": -4.18
     },
     {
       "group": "Precious metals",
       "name": "NYMEX palladium",
       "symbol": "PA=F",
       "unit": "USD/oz",
-      "close": 928.0,
+      "close": 927.5,
       "previous_close": 965.1,
       "previous_date": "2026-11-02",
-      "change_pct": -3.84
+      "change_pct": -3.9
     },
     {
       "group": "Base metals",
       "name": "COMEX copper",
       "symbol": "HG=F",
       "unit": "USD/lb",
-      "close": 6.296,
+      "close": 6.2905,
       "previous_close": 6.5435,
       "previous_date": "2026-11-02",
-      "change_pct": -3.78
+      "change_pct": -3.87
     },
     {
       "group": "Base metals",
@@ -236,10 +236,10 @@
       "name": "CBOT soybeans",
       "symbol": "ZS=F",
       "unit": "US cents/bu",
-      "close": 1201.0,
+      "close": 1200.75,
       "previous_close": 1204.75,
       "previous_date": "2026-11-02",
-      "change_pct": -0.31
+      "change_pct": -0.33
     },
     {
       "group": "Softs",
@@ -296,20 +296,20 @@
       "name": "NYMEX WTI",
       "symbol": "CL=F",
       "unit": "USD/bbl",
-      "close": 95.73,
+      "close": 95.69,
       "previous_close": 96.46,
       "previous_date": "2026-11-02",
-      "change_pct": -0.76
+      "change_pct": -0.8
     },
     {
       "group": "Energy",
       "name": "ICE Brent",
       "symbol": "BZ=F",
       "unit": "USD/bbl",
-      "close": 103.3,
+      "close": 103.24,
       "previous_close": 104.77,
       "previous_date": "2026-11-02",
-      "change_pct": -1.4
+      "change_pct": -1.46
     },
     {
       "group": "Energy",
@@ -324,6 +324,140 @@
   ],
   "commodity_note": "Close is Yahoo's latest price when this file was generated, which can differ from the official settlement. Treat as indicative: use reported settlements where available. Thin contracts can be stale.",
   "missing_symbols": [],
+  "movers": {
+    "universe_size": 518,
+    "priced": 517,
+    "missing_tickers": [
+      "KVUE"
+    ],
+    "advancers": 199,
+    "decliners": 318,
+    "gainers": [
+      {
+        "ticker": "FISV",
+        "company": "Fiserv",
+        "sector": "Financials",
+        "industry": "Transaction & Payment Processing Services",
+        "indices": [
+          "S&P 500"
+        ],
+        "change_pct": 12.46,
+        "close": 58.4,
+        "needs_check": false
+      },
+      {
+        "ticker": "BE",
+        "company": "Bloom Energy",
+        "sector": "Industrials",
+        "industry": "Electrical Components & Equipment",
+        "indices": [
+          "S&P 500"
+        ],
+        "change_pct": 9.05,
+        "close": 214.01,
+        "needs_check": false
+      },
+      {
+        "ticker": "DD",
+        "company": "DuPont",
+        "sector": "Industrials",
+        "industry": "Industrial Conglomerates",
+        "indices": [
+          "S&P 500"
+        ],
+        "change_pct": 8.61,
+        "close": 153.46,
+        "needs_check": false
+      },
+      {
+        "ticker": "RVTY",
+        "company": "Revvity",
+        "sector": "Health Care",
+        "industry": "Health Care Equipment",
+        "indices": [
+          "S&P 500"
+        ],
+        "change_pct": 7.84,
+        "close": 163.48,
+        "needs_check": false
+      },
+      {
+        "ticker": "APP",
+        "company": "AppLovin",
+        "sector": "Communication Services",
+        "industry": "Advertising",
+        "indices": [
+          "S&P 500",
+          "Nasdaq 100"
+        ],
+        "change_pct": 7.28,
+        "close": 245.51,
+        "needs_check": false
+      }
+    ],
+    "losers": [
+      {
+        "ticker": "IT",
+        "company": "Gartner",
+        "sector": "Information Technology",
+        "industry": "IT Consulting & Other Services",
+        "indices": [
+          "S&P 500"
+        ],
+        "change_pct": -13.19,
+        "close": 204.22,
+        "needs_check": false
+      },
+      {
+        "ticker": "TRI",
+        "company": "Thomson Reuters",
+        "sector": "Technology",
+        "industry": "Software",
+        "indices": [
+          "Nasdaq 100"
+        ],
+        "change_pct": -9.87,
+        "close": 110.18,
+        "needs_check": false
+      },
+      {
+        "ticker": "SYY",
+        "company": "Sysco",
+        "sector": "Consumer Staples",
+        "industry": "Food Distributors",
+        "indices": [
+          "S&P 500"
+        ],
+        "change_pct": -9.33,
+        "close": 74.11,
+        "needs_check": false
+      },
+      {
+        "ticker": "ZBRA",
+        "company": "Zebra Technologies",
+        "sector": "Information Technology",
+        "industry": "Electronic Equipment & Instruments",
+        "indices": [
+          "S&P 500"
+        ],
+        "change_pct": -8.76,
+        "close": 329.5,
+        "needs_check": false
+      },
+      {
+        "ticker": "SHOP",
+        "company": "Shopify",
+        "sector": "Technology",
+        "industry": "Software",
+        "indices": [
+          "Nasdaq 100"
+        ],
+        "change_pct": -8.74,
+        "close": 142.57,
+        "needs_check": false
+      }
+    ]
+  },
   "treasury": {
     "source": "US Treasury daily par yield curve",
     "as_of": "2026-11-03",
@@ -365,7 +499,5 @@
       "change_bp": 0
     }
   },
-  "errors": {
-    "movers": "constituents: constituents table not found for Nasdaq 100; tables seen: [['0', '1'], ['Category', 'All-Time Highs[13]', 'All-Time Highs[13].1'], ['Year', 'Closing level', 'Change in Index in Points', 'Change in Index in\\xa0%'], ['Milestone (closing)[13]', 'Date of Record (closing)[13]', 'Trading Days[13]'], ['Milestone (closing)[13]', 'Date of Record (closing)[13]', 'Trading Days[13]'], ['vteList of NASDAQ-100 companies', 'vteList of NASDAQ-100 companies.1'], ['vteNasdaq, Inc.', 'vteNasdaq, Inc..1', 'vteNasdaq, Inc..2'], ['vteStock market indices', 'vteStock market indices.1'], ['0', '1'], ['0', '1'], ['0', '1'], ['0', '1'], ['0', '1'], ['0', '1'], ['0', '1'], ['0', '1'], ['vteMajor United States stock market indices', 'vteMajor United States stock market indices.1'], ['vteMajor stock market indices of the Americas', 'vteMajor stock market indices of the Americas.1']]"
-  }
+  "errors": {}
 }
