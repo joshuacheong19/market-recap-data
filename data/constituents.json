@@ -2193,14 +2193,6 @@
    "S&P 500"
   ]
  },
- "KVUE": {
-  "company": "Kenvue",
-  "sector": "Consumer Staples",
-  "industry": "Personal Care Products",
-  "indices": [
-   "S&P 500"
-  ]
- },
  "KDP": {
   "company": "Keurig Dr Pepper",
   "sector": "Consumer Staples",
@@ -2832,6 +2824,14 @@
   "company": "Occidental Petroleum",
   "sector": "Energy",
   "industry": "Oil & Gas Exploration & Production",
+  "indices": [
+   "S&P 500"
+  ]
+ },
+ "OKTA": {
+  "company": "Okta, Inc.",
+  "sector": "Information Technology",
+  "industry": "Application Software",
   "indices": [
    "S&P 500"
   ]
