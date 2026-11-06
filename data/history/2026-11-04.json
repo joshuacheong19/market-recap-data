@@ -1,6 +1,6 @@
 {
   "session_date": "2026-11-04",
-  "generated_at_utc": "2026-11-05T02:29:50+00:00",
+  "generated_at_utc": "2026-11-06T01:33:33+00:00",
   "price_source": "Yahoo Finance via yfinance (unofficial; unadjusted closes)",
   "equities": {
     "SPY": {
@@ -136,120 +136,130 @@
       "name": "COMEX gold",
       "symbol": "GC=F",
       "unit": "USD/oz",
-      "close": 4135.6001,
+      "close": 4073.0,
       "previous_close": 3940.3999,
       "previous_date": "2026-11-03",
-      "change_pct": 4.95
+      "change_pct": 3.37
     },
     {
       "group": "Precious metals",
       "name": "COMEX silver",
       "symbol": "SI=F",
       "unit": "USD/oz",
-      "close": 53.13,
+      "close": 52.12,
       "previous_close": 49.587,
       "previous_date": "2026-11-03",
-      "change_pct": 7.15
+      "change_pct": 5.11
     },
     {
       "group": "Precious metals",
       "name": "NYMEX platinum",
       "symbol": "PL=F",
       "unit": "USD/oz",
-      "close": 1524.0,
+      "close": 1501.1,
       "previous_close": 1432.4,
       "previous_date": "2026-11-03",
-      "change_pct": 6.39
+      "change_pct": 4.8
     },
     {
       "group": "Precious metals",
       "name": "NYMEX palladium",
       "symbol": "PA=F",
       "unit": "USD/oz",
-      "close": 1021.5,
+      "close": 999.8,
       "previous_close": 930.0,
       "previous_date": "2026-11-03",
-      "change_pct": 9.84
+      "change_pct": 7.51
     },
     {
       "group": "Base metals",
       "name": "COMEX copper",
       "symbol": "HG=F",
       "unit": "USD/lb",
-      "close": 6.422,
+      "close": 6.403,
       "previous_close": 6.3785,
       "previous_date": "2026-11-03",
-      "change_pct": 0.68
+      "change_pct": 0.38
     },
     {
       "group": "Base metals",
       "name": "COMEX aluminium",
       "symbol": "ALI=F",
       "unit": "USD/t",
-      "close": 3198.0,
+      "close": 3253.75,
       "previous_close": 3235.25,
       "previous_date": "2026-11-03",
-      "change_pct": -1.15
+      "change_pct": 0.57
+    },
+    {
+      "group": "Ferrous",
+      "name": "SGX/CME iron ore 62% Fe",
+      "symbol": "TIO=F",
+      "unit": "USD/t",
+      "close": 91.95,
+      "previous_close": 91.03,
+      "previous_date": "2026-11-03",
+      "change_pct": 1.01
     },
     {
       "group": "Ferrous",
       "name": "CME US Midwest HRC",
       "symbol": "HRC=F",
       "unit": "USD/short ton",
-      "close": 1386.0,
+      "close": 1355.0,
       "previous_close": 1360.0,
       "previous_date": "2026-11-03",
-      "change_pct": 1.91
+      "change_pct": -0.37
     },
     {
       "group": "Agriculture",
       "name": "CBOT wheat",
       "symbol": "ZW=F",
       "unit": "US cents/bu",
-      "close": 601.5,
+      "close": 598.5,
       "previous_close": 599.75,
       "previous_date": "2026-11-03",
-      "change_pct": 0.29
+      "change_pct": -0.21
     },
     {
       "group": "Agriculture",
       "name": "CBOT corn",
       "symbol": "ZC=F",
       "unit": "US cents/bu",
-      "close": 446.0,
+      "close": 444.25,
       "previous_close": 442.5,
       "previous_date": "2026-11-03",
-      "change_pct": 0.79
+      "change_pct": 0.4
     },
     {
       "group": "Agriculture",
       "name": "CBOT soybeans",
       "symbol": "ZS=F",
       "unit": "US cents/bu",
-      "close": 1203.0,
+      "close": 1193.25,
       "previous_close": 1203.0,
       "previous_date": "2026-11-03",
-      "change_pct": 0.0
+      "change_pct": -0.81
     },
     {
       "group": "Softs",
       "name": "ICE coffee",
       "symbol": "KC=F",
       "unit": "US cents/lb",
-      "close": 279.5,
+      "close": 279.75,
       "previous_close": 283.95,
       "previous_date": "2026-11-03",
-      "change_pct": -1.57
+      "change_pct": -1.48
     },
     {
       "group": "Softs",
       "name": "ICE cocoa",
       "symbol": "CC=F",
       "unit": "USD/t",
-      "close": 5427.0,
+      "close": 5456.0,
       "previous_close": 5414.0,
       "previous_date": "2026-11-03",
-      "change_pct": 0.24
+      "change_pct": 0.78
     },
     {
       "group": "Softs",
@@ -266,63 +276,59 @@
       "name": "ICE cotton",
       "symbol": "CT=F",
       "unit": "US cents/lb",
-      "close": 78.09,
+      "close": 78.11,
       "previous_close": 77.04,
       "previous_date": "2026-11-03",
-      "change_pct": 1.36
+      "change_pct": 1.39
     },
     {
       "group": "Softs",
       "name": "ICE orange juice",
       "symbol": "OJ=F",
       "unit": "US cents/lb",
-      "close": 137.4,
+      "close": 131.5,
       "previous_close": 135.45,
       "previous_date": "2026-11-03",
-      "change_pct": 1.44
+      "change_pct": -2.92
     },
     {
       "group": "Energy",
       "name": "NYMEX WTI",
       "symbol": "CL=F",
       "unit": "USD/bbl",
-      "close": 87.35,
+      "close": 88.12,
       "previous_close": 96.09,
       "previous_date": "2026-11-03",
-      "change_pct": -9.1
+      "change_pct": -8.29
     },
     {
       "group": "Energy",
       "name": "ICE Brent",
       "symbol": "BZ=F",
       "unit": "USD/bbl",
-      "close": 93.9,
+      "close": 94.62,
       "previous_close": 103.6,
       "previous_date": "2026-11-03",
-      "change_pct": -9.36
+      "change_pct": -8.67
     },
     {
       "group": "Energy",
       "name": "NYMEX natural gas",
       "symbol": "NG=F",
       "unit": "USD/MMBtu",
-      "close": 2.952,
+      "close": 2.959,
       "previous_close": 2.895,
       "previous_date": "2026-11-03",
-      "change_pct": 1.97
+      "change_pct": 2.21
     }
   ],
   "commodity_note": "Close is Yahoo's latest price when this file was generated, which can differ from the official settlement. Treat as indicative: use reported settlements where available. Thin contracts can be stale.",
-  "missing_symbols": [
-    "SGX/CME iron ore 62% Fe"
-  ],
+  "missing_symbols": [],
   "movers": {
     "universe_size": 518,
-    "priced": 517,
-    "missing_tickers": [
-      "NEM"
-    ],
-    "advancers": 383,
+    "priced": 518,
+    "missing_tickers": [],
+    "advancers": 384,
     "decliners": 134,
     "gainers": [
       {
