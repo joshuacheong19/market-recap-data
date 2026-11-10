@@ -1,0 +1,495 @@
+{
+  "session_date": "2026-11-10",
+  "generated_at_utc": "2026-11-10T22:15:41+00:00",
+  "price_source": "Yahoo Finance via yfinance (unofficial; unadjusted closes)",
+  "equities": {
+    "SPY": {
+      "close": 749.92,
+      "previous_close": 752.69,
+      "previous_date": "2026-11-09",
+      "change_pct": -0.37
+    },
+    "DJI": {
+      "close": 52231.8906,
+      "previous_close": 52389.75,
+      "previous_date": "2026-11-09",
+      "change_pct": -0.3
+    },
+    "QQQ": {
+      "close": 674.76,
+      "previous_close": 679.35,
+      "previous_date": "2026-11-09",
+      "change_pct": -0.68
+    },
+    "RSP": {
+      "close": 220.88,
+      "previous_close": 220.95,
+      "previous_date": "2026-11-09",
+      "change_pct": -0.03
+    },
+    "VIX": {
+      "close": 19.46,
+      "previous_close": 19.92,
+      "previous_date": "2026-11-09",
+      "change_pct": -2.31
+    },
+    "VVIX": {
+      "close": 96.63,
+      "previous_close": 98.43,
+      "previous_date": "2026-11-09",
+      "change_pct": -1.83
+    }
+  },
+  "sectors": [
+    {
+      "ticker": "XLF",
+      "description": "Financials (banks, insurers, payments, asset managers)",
+      "close": 58.29,
+      "previous_close": 57.99,
+      "previous_date": "2026-11-09",
+      "change_pct": 0.52
+    },
+    {
+      "ticker": "XLE",
+      "description": "Energy (oil and gas producers, refiners, services)",
+      "close": 62.21,
+      "previous_close": 61.94,
+      "previous_date": "2026-11-09",
+      "change_pct": 0.44
+    },
+    {
+      "ticker": "XLC",
+      "description": "Communication services (internet platforms, media, telecom)",
+      "close": 107.76,
+      "previous_close": 107.36,
+      "previous_date": "2026-11-09",
+      "change_pct": 0.37
+    },
+    {
+      "ticker": "XLV",
+      "description": "Health care (pharma, biotech, medical devices, insurers)",
+      "close": 188.88,
+      "previous_close": 188.33,
+      "previous_date": "2026-11-09",
+      "change_pct": 0.29
+    },
+    {
+      "ticker": "XLP",
+      "description": "Consumer staples (food, beverages, household goods, grocers)",
+      "close": 91.03,
+      "previous_close": 90.89,
+      "previous_date": "2026-11-09",
+      "change_pct": 0.15
+    },
+    {
+      "ticker": "XLY",
+      "description": "Consumer discretionary (retail, autos, travel, restaurants)",
+      "close": 121.05,
+      "previous_close": 121.01,
+      "previous_date": "2026-11-09",
+      "change_pct": 0.03
+    },
+    {
+      "ticker": "XLI",
+      "description": "Industrials (aerospace, machinery, transport, construction)",
+      "close": 168.73,
+      "previous_close": 168.89,
+      "previous_date": "2026-11-09",
+      "change_pct": -0.09
+    },
+    {
+      "ticker": "XLRE",
+      "description": "Real estate (REITs)",
+      "close": 44.58,
+      "previous_close": 44.64,
+      "previous_date": "2026-11-09",
+      "change_pct": -0.13
+    },
+    {
+      "ticker": "XLU",
+      "description": "Utilities (electric, gas and water companies)",
+      "close": 43.73,
+      "previous_close": 43.79,
+      "previous_date": "2026-11-09",
+      "change_pct": -0.14
+    },
+    {
+      "ticker": "XLB",
+      "description": "Materials (chemicals, mining, packaging)",
+      "close": 52.85,
+      "previous_close": 52.94,
+      "previous_date": "2026-11-09",
+      "change_pct": -0.17
+    },
+    {
+      "ticker": "XLK",
+      "description": "Technology (software, semiconductors, hardware)",
+      "close": 168.91,
+      "previous_close": 170.88,
+      "previous_date": "2026-11-09",
+      "change_pct": -1.15
+    }
+  ],
+  "commodities": [
+    {
+      "group": "Precious metals",
+      "name": "COMEX gold",
+      "symbol": "GC=F",
+      "unit": "USD/oz",
+      "close": 4040.5,
+      "previous_close": 4114.5,
+      "previous_date": "2026-11-09",
+      "change_pct": -1.8
+    },
+    {
+      "group": "Precious metals",
+      "name": "COMEX silver",
+      "symbol": "SI=F",
+      "unit": "USD/oz",
+      "close": 51.53,
+      "previous_close": 52.564,
+      "previous_date": "2026-11-09",
+      "change_pct": -1.97
+    },
+    {
+      "group": "Precious metals",
+      "name": "NYMEX platinum",
+      "symbol": "PL=F",
+      "unit": "USD/oz",
+      "close": 1541.2,
+      "previous_close": 1561.2,
+      "previous_date": "2026-11-09",
+      "change_pct": -1.28
+    },
+    {
+      "group": "Precious metals",
+      "name": "NYMEX palladium",
+      "symbol": "PA=F",
+      "unit": "USD/oz",
+      "close": 1024.0,
+      "previous_close": 1018.9,
+      "previous_date": "2026-11-09",
+      "change_pct": 0.5
+    },
+    {
+      "group": "Base metals",
+      "name": "COMEX copper",
+      "symbol": "HG=F",
+      "unit": "USD/lb",
+      "close": 6.27,
+      "previous_close": 6.3285,
+      "previous_date": "2026-11-09",
+      "change_pct": -0.92
+    },
+    {
+      "group": "Base metals",
+      "name": "COMEX aluminium",
+      "symbol": "ALI=F",
+      "unit": "USD/t",
+      "close": 3113.75,
+      "previous_close": 3230.25,
+      "previous_date": "2026-11-09",
+      "change_pct": -3.61
+    },
+    {
+      "group": "Ferrous",
+      "name": "CME US Midwest HRC",
+      "symbol": "HRC=F",
+      "unit": "USD/short ton",
+      "close": 1423.0,
+      "previous_close": 1359.0,
+      "previous_date": "2026-11-09",
+      "change_pct": 4.71
+    },
+    {
+      "group": "Agriculture",
+      "name": "CBOT wheat",
+      "symbol": "ZW=F",
+      "unit": "US cents/bu",
+      "close": 591.5,
+      "previous_close": 588.0,
+      "previous_date": "2026-11-09",
+      "change_pct": 0.6
+    },
+    {
+      "group": "Agriculture",
+      "name": "CBOT corn",
+      "symbol": "ZC=F",
+      "unit": "US cents/bu",
+      "close": 448.0,
+      "previous_close": 439.25,
+      "previous_date": "2026-11-09",
+      "change_pct": 1.99
+    },
+    {
+      "group": "Agriculture",
+      "name": "CBOT soybeans",
+      "symbol": "ZS=F",
+      "unit": "US cents/bu",
+      "close": 1226.75,
+      "previous_close": 1182.25,
+      "previous_date": "2026-11-09",
+      "change_pct": 3.76
+    },
+    {
+      "group": "Softs",
+      "name": "ICE coffee",
+      "symbol": "KC=F",
+      "unit": "US cents/lb",
+      "close": 266.75,
+      "previous_close": 273.6,
+      "previous_date": "2026-11-09",
+      "change_pct": -2.5
+    },
+    {
+      "group": "Softs",
+      "name": "ICE cocoa",
+      "symbol": "CC=F",
+      "unit": "USD/t",
+      "close": 4852.0,
+      "previous_close": 5004.0,
+      "previous_date": "2026-11-09",
+      "change_pct": -3.04
+    },
+    {
+      "group": "Softs",
+      "name": "ICE sugar",
+      "symbol": "SB=F",
+      "unit": "US cents/lb",
+      "close": 18.15,
+      "previous_close": 18.21,
+      "previous_date": "2026-11-09",
+      "change_pct": -0.33
+    },
+    {
+      "group": "Softs",
+      "name": "ICE cotton",
+      "symbol": "CT=F",
+      "unit": "US cents/lb",
+      "close": 78.28,
+      "previous_close": 78.78,
+      "previous_date": "2026-11-09",
+      "change_pct": -0.63
+    },
+    {
+      "group": "Softs",
+      "name": "ICE orange juice",
+      "symbol": "OJ=F",
+      "unit": "US cents/lb",
+      "close": 146.15,
+      "previous_close": 138.35,
+      "previous_date": "2026-11-09",
+      "change_pct": 5.64
+    },
+    {
+      "group": "Energy",
+      "name": "NYMEX WTI",
+      "symbol": "CL=F",
+      "unit": "USD/bbl",
+      "close": 86.44,
+      "previous_close": 86.85,
+      "previous_date": "2026-11-09",
+      "change_pct": -0.47
+    },
+    {
+      "group": "Energy",
+      "name": "ICE Brent",
+      "symbol": "BZ=F",
+      "unit": "USD/bbl",
+      "close": 92.06,
+      "previous_close": 92.57,
+      "previous_date": "2026-11-09",
+      "change_pct": -0.55
+    },
+    {
+      "group": "Energy",
+      "name": "NYMEX natural gas",
+      "symbol": "NG=F",
+      "unit": "USD/MMBtu",
+      "close": 3.294,
+      "previous_close": 3.218,
+      "previous_date": "2026-11-09",
+      "change_pct": 2.36
+    }
+  ],
+  "commodity_note": "Close is Yahoo's latest price when this file was generated, which can differ from the official settlement. Treat as indicative: use reported settlements where available. Thin contracts can be stale.",
+  "missing_symbols": [
+    "SGX/CME iron ore 62% Fe"
+  ],
+  "movers": {
+    "universe_size": 518,
+    "priced": 518,
+    "missing_tickers": [],
+    "advancers": 250,
+    "decliners": 259,
+    "gainers": [
+      {
+        "ticker": "CHTR",
+        "company": "Charter Communications",
+        "sector": "Communication Services",
+        "industry": "Cable & Satellite",
+        "indices": [
+          "S&P 500"
+        ],
+        "change_pct": 10.61,
+        "close": 134.06,
+        "needs_check": false
+      },
+      {
+        "ticker": "TTWO",
+        "company": "Take-Two Interactive",
+        "sector": "Communication Services",
+        "industry": "Interactive Home Entertainment",
+        "indices": [
+          "S&P 500",
+          "Nasdaq 100"
+        ],
+        "change_pct": 8.31,
+        "close": 224.64,
+        "needs_check": false
+      },
+      {
+        "ticker": "RKLB",
+        "company": "Rocket Lab",
+        "sector": "Industrials",
+        "industry": "Aerospace",
+        "indices": [
+          "Nasdaq 100"
+        ],
+        "change_pct": 6.54,
+        "close": 62.71,
+        "needs_check": false
+      },
+      {
+        "ticker": "CVS",
+        "company": "CVS Health",
+        "sector": "Health Care",
+        "industry": "Health Care Services",
+        "indices": [
+          "S&P 500"
+        ],
+        "change_pct": 4.41,
+        "close": 89.01,
+        "needs_check": false
+      },
+      {
+        "ticker": "AKAM",
+        "company": "Akamai Technologies",
+        "sector": "Information Technology",
+        "industry": "Internet Services & Infrastructure",
+        "indices": [
+          "S&P 500"
+        ],
+        "change_pct": 4.26,
+        "close": 83.71,
+        "needs_check": false
+      }
+    ],
+    "losers": [
+      {
+        "ticker": "SKYD",
+        "company": "Skydance",
+        "sector": "Communication Services",
+        "industry": "Movies & Entertainment",
+        "indices": [
+          "S&P 500"
+        ],
+        "change_pct": -7.59,
+        "close": 8.04,
+        "needs_check": false
+      },
+      {
+        "ticker": "MRNA",
+        "company": "Moderna",
+        "sector": "Health Care",
+        "industry": "Biotechnology",
+        "indices": [
+          "S&P 500",
+          "Nasdaq 100"
+        ],
+        "change_pct": -6.75,
+        "close": 250.83,
+        "needs_check": false
+      },
+      {
+        "ticker": "FSLR",
+        "company": "First Solar",
+        "sector": "Information Technology",
+        "industry": "Semiconductors",
+        "indices": [
+          "S&P 500"
+        ],
+        "change_pct": -5.55,
+        "close": 180.98,
+        "needs_check": false
+      },
+      {
+        "ticker": "NVDA",
+        "company": "Nvidia",
+        "sector": "Information Technology",
+        "industry": "Semiconductors",
+        "indices": [
+          "S&P 500",
+          "Nasdaq 100"
+        ],
+        "change_pct": -5.47,
+        "close": 168.89,
+        "needs_check": false
+      },
+      {
+        "ticker": "LEN",
+        "company": "Lennar",
+        "sector": "Consumer Discretionary",
+        "industry": "Homebuilding",
+        "indices": [
+          "S&P 500"
+        ],
+        "change_pct": -5.37,
+        "close": 86.66,
+        "needs_check": false
+      }
+    ]
+  },
+  "treasury": {
+    "source": "US Treasury daily par yield curve",
+    "as_of": "2026-11-10",
+    "previous_date": "2026-11-09",
+    "matches_session": true,
+    "yields": {
+      "3-month": {
+        "yield_pct": 4.3,
+        "change_bp": 6
+      },
+      "2-year": {
+        "yield_pct": 4.73,
+        "change_bp": 17
+      },
+      "5-year": {
+        "yield_pct": 4.81,
+        "change_bp": 14
+      },
+      "7-year": {
+        "yield_pct": 4.89,
+        "change_bp": 13
+      },
+      "10-year": {
+        "yield_pct": 4.98,
+        "change_bp": 10
+      },
+      "30-year": {
+        "yield_pct": 5.35,
+        "change_bp": 9
+      }
+    },
+    "missing_tenors": [],
+    "2s10s": {
+      "spread_bp": 25,
+      "change_bp": -7
+    },
+    "5s30s": {
+      "spread_bp": 54,
+      "change_bp": -5
+    }
+  },
+  "errors": {}
+}
