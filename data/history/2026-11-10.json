@@ -1,6 +1,6 @@
 {
   "session_date": "2026-11-10",
-  "generated_at_utc": "2026-11-10T22:15:41+00:00",
+  "generated_at_utc": "2026-11-11T01:56:50+00:00",
   "price_source": "Yahoo Finance via yfinance (unofficial; unadjusted closes)",
   "equities": {
     "SPY": {
@@ -58,14 +58,6 @@
       "change_pct": 0.44
     },
     {
-      "ticker": "XLC",
-      "description": "Communication services (internet platforms, media, telecom)",
-      "close": 107.76,
-      "previous_close": 107.36,
-      "previous_date": "2026-11-09",
-      "change_pct": 0.37
-    },
-    {
       "ticker": "XLV",
       "description": "Health care (pharma, biotech, medical devices, insurers)",
       "close": 188.88,
@@ -98,14 +90,6 @@
       "change_pct": -0.09
     },
     {
-      "ticker": "XLRE",
-      "description": "Real estate (REITs)",
-      "close": 44.58,
-      "previous_close": 44.64,
-      "previous_date": "2026-11-09",
-      "change_pct": -0.13
-    },
-    {
       "ticker": "XLU",
       "description": "Utilities (electric, gas and water companies)",
       "close": 43.73,
@@ -136,60 +120,60 @@
       "name": "COMEX gold",
       "symbol": "GC=F",
       "unit": "USD/oz",
-      "close": 4040.5,
+      "close": 4053.5,
       "previous_close": 4114.5,
       "previous_date": "2026-11-09",
-      "change_pct": -1.8
+      "change_pct": -1.48
     },
     {
       "group": "Precious metals",
       "name": "COMEX silver",
       "symbol": "SI=F",
       "unit": "USD/oz",
-      "close": 51.53,
+      "close": 52.32,
       "previous_close": 52.564,
       "previous_date": "2026-11-09",
-      "change_pct": -1.97
+      "change_pct": -0.46
     },
     {
       "group": "Precious metals",
       "name": "NYMEX platinum",
       "symbol": "PL=F",
       "unit": "USD/oz",
-      "close": 1541.2,
+      "close": 1560.7,
       "previous_close": 1561.2,
       "previous_date": "2026-11-09",
-      "change_pct": -1.28
+      "change_pct": -0.03
     },
     {
       "group": "Precious metals",
       "name": "NYMEX palladium",
       "symbol": "PA=F",
       "unit": "USD/oz",
-      "close": 1024.0,
+      "close": 1037.0,
       "previous_close": 1018.9,
       "previous_date": "2026-11-09",
-      "change_pct": 0.5
+      "change_pct": 1.78
     },
     {
       "group": "Base metals",
       "name": "COMEX copper",
       "symbol": "HG=F",
       "unit": "USD/lb",
-      "close": 6.27,
+      "close": 6.31,
       "previous_close": 6.3285,
       "previous_date": "2026-11-09",
-      "change_pct": -0.92
+      "change_pct": -0.29
     },
     {
       "group": "Base metals",
       "name": "COMEX aluminium",
       "symbol": "ALI=F",
       "unit": "USD/t",
-      "close": 3113.75,
+      "close": 3128.5,
       "previous_close": 3230.25,
       "previous_date": "2026-11-09",
-      "change_pct": -3.61
+      "change_pct": -3.15
     },
     {
       "group": "Ferrous",
@@ -206,30 +190,30 @@
       "name": "CBOT wheat",
       "symbol": "ZW=F",
       "unit": "US cents/bu",
-      "close": 591.5,
+      "close": 593.5,
       "previous_close": 588.0,
       "previous_date": "2026-11-09",
-      "change_pct": 0.6
+      "change_pct": 0.94
     },
     {
       "group": "Agriculture",
       "name": "CBOT corn",
       "symbol": "ZC=F",
       "unit": "US cents/bu",
-      "close": 448.0,
+      "close": 449.25,
       "previous_close": 439.25,
       "previous_date": "2026-11-09",
-      "change_pct": 1.99
+      "change_pct": 2.28
     },
     {
       "group": "Agriculture",
       "name": "CBOT soybeans",
       "symbol": "ZS=F",
       "unit": "US cents/bu",
-      "close": 1226.75,
+      "close": 1227.75,
       "previous_close": 1182.25,
       "previous_date": "2026-11-09",
-      "change_pct": 3.76
+      "change_pct": 3.85
     },
     {
       "group": "Softs",
@@ -286,42 +270,124 @@
       "name": "NYMEX WTI",
       "symbol": "CL=F",
       "unit": "USD/bbl",
-      "close": 86.44,
+      "close": 86.29,
       "previous_close": 86.85,
       "previous_date": "2026-11-09",
-      "change_pct": -0.47
+      "change_pct": -0.64
     },
     {
       "group": "Energy",
       "name": "ICE Brent",
       "symbol": "BZ=F",
       "unit": "USD/bbl",
-      "close": 92.06,
+      "close": 91.99,
       "previous_close": 92.57,
       "previous_date": "2026-11-09",
-      "change_pct": -0.55
+      "change_pct": -0.63
     },
     {
       "group": "Energy",
       "name": "NYMEX natural gas",
       "symbol": "NG=F",
       "unit": "USD/MMBtu",
-      "close": 3.294,
+      "close": 3.302,
       "previous_close": 3.218,
       "previous_date": "2026-11-09",
-      "change_pct": 2.36
+      "change_pct": 2.61
     }
   ],
   "commodity_note": "Close is Yahoo's latest price when this file was generated, which can differ from the official settlement. Treat as indicative: use reported settlements where available. Thin contracts can be stale.",
   "missing_symbols": [
+    "XLC",
+    "XLRE",
     "SGX/CME iron ore 62% Fe"
   ],
   "movers": {
     "universe_size": 518,
-    "priced": 518,
-    "missing_tickers": [],
-    "advancers": 250,
-    "decliners": 259,
+    "priced": 439,
+    "missing_tickers": [
+      "ABBV",
+      "ABNB",
+      "ALAB",
+      "ALLE",
+      "AMCR",
+      "ANET",
+      "APP",
+      "ARES",
+      "ARM",
+      "BE",
+      "CARR",
+      "CDW",
+      "CEG",
+      "CFG",
+      "COIN",
+      "CRWD",
+      "CRWV",
+      "CVNA",
+      "DASH",
+      "DDOG",
+      "DELL",
+      "DOW",
+      "EXE",
+      "FANG",
+      "FDXF",
+      "FER",
+      "FOX",
+      "FOXA",
+      "FTV",
+      "GDDY",
+      "GEHC",
+      "GEV",
+      "GOOG",
+      "HLT",
+      "HONA",
+      "HOOD",
+      "HPE",
+      "HUBB",
+      "INVH",
+      "IQV",
+      "IR",
+      "KEYS",
+      "KHC",
+      "LITE",
+      "META",
+      "MRNA",
+      "NBIS",
+      "NCLH",
+      "NOW",
+      "NWS",
+      "NWSA",
+      "OKTA",
+      "OTIS",
+      "P",
+      "PANW",
+      "PDD",
+      "PLTR",
+      "PSX",
+      "PYPL",
+      "Q",
+      "RDDT",
+      "RKLB",
+      "SHOP",
+      "SNDK",
+      "SOLV",
+      "SPCX",
+      "SW",
+      "SYF",
+      "TWLO",
+      "UBER",
+      "VEEV",
+      "VICI",
+      "VLTO",
+      "VRT",
+      "VST",
+      "VYLR",
+      "WDAY",
+      "XYZ",
+      "ZTS"
+    ],
+    "advancers": 228,
+    "decliners": 204,
     "gainers": [
       {
         "ticker": "CHTR",
@@ -349,18 +415,6 @@
         "needs_check": false
       },
       {
-        "ticker": "RKLB",
-        "company": "Rocket Lab",
-        "sector": "Industrials",
-        "industry": "Aerospace",
-        "indices": [
-          "Nasdaq 100"
-        ],
-        "change_pct": 6.54,
-        "close": 62.71,
-        "needs_check": false
-      },
-      {
         "ticker": "CVS",
         "company": "CVS Health",
         "sector": "Health Care",
@@ -383,6 +437,18 @@
         "change_pct": 4.26,
         "close": 83.71,
         "needs_check": false
+      },
+      {
+        "ticker": "EQT",
+        "company": "EQT Corporation",
+        "sector": "Energy",
+        "industry": "Oil & Gas Exploration & Production",
+        "indices": [
+          "S&P 500"
+        ],
+        "change_pct": 4.19,
+        "close": 52.0,
+        "needs_check": false
       }
     ],
     "losers": [
@@ -396,19 +462,6 @@
         ],
         "change_pct": -7.59,
         "close": 8.04,
-        "needs_check": false
-      },
-      {
-        "ticker": "MRNA",
-        "company": "Moderna",
-        "sector": "Health Care",
-        "industry": "Biotechnology",
-        "indices": [
-          "S&P 500",
-          "Nasdaq 100"
-        ],
-        "change_pct": -6.75,
-        "close": 250.83,
         "needs_check": false
       },
       {
@@ -446,6 +499,18 @@
         ],
         "change_pct": -5.37,
         "close": 86.66,
+        "needs_check": false
+      },
+      {
+        "ticker": "NVR",
+        "company": "NVR, Inc.",
+        "sector": "Consumer Discretionary",
+        "industry": "Homebuilding",
+        "indices": [
+          "S&P 500"
+        ],
+        "change_pct": -4.76,
+        "close": 6036.4199,
         "needs_check": false
       }
     ]
