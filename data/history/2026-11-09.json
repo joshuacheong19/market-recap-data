@@ -1,6 +1,6 @@
 {
   "session_date": "2026-11-09",
-  "generated_at_utc": "2026-11-10T13:43:26+00:00",
+  "generated_at_utc": "2026-11-11T01:15:01+00:00",
   "price_source": "Yahoo Finance via yfinance (unofficial; unadjusted closes)",
   "equities": {
     "SPY": {
@@ -326,9 +326,11 @@
   "missing_symbols": [],
   "movers": {
     "universe_size": 518,
-    "priced": 518,
-    "missing_tickers": [],
-    "advancers": 435,
+    "priced": 517,
+    "missing_tickers": [
+      "HBAN"
+    ],
+    "advancers": 434,
     "decliners": 81,
     "gainers": [
       {
