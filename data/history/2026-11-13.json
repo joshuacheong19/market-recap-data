@@ -1,6 +1,6 @@
 {
   "session_date": "2026-11-13",
-  "generated_at_utc": "2026-11-13T22:15:42+00:00",
+  "generated_at_utc": "2026-11-14T02:27:42+00:00",
   "price_source": "Yahoo Finance via yfinance (unofficial; unadjusted closes)",
   "equities": {
     "SPY": {
@@ -50,14 +50,6 @@
       "change_pct": 1.42
     },
     {
-      "ticker": "XLC",
-      "description": "Communication services (internet platforms, media, telecom)",
-      "close": 108.69,
-      "previous_close": 107.56,
-      "previous_date": "2026-11-12",
-      "change_pct": 1.05
-    },
-    {
       "ticker": "XLE",
       "description": "Energy (oil and gas producers, refiners, services)",
       "close": 64.96,
@@ -88,14 +80,6 @@
       "previous_close": 43.81,
       "previous_date": "2026-11-12",
       "change_pct": 0.52
-    },
-    {
-      "ticker": "XLRE",
-      "description": "Real estate (REITs)",
-      "close": 44.37,
-      "previous_close": 44.36,
-      "previous_date": "2026-11-12",
-      "change_pct": 0.02
     },
     {
       "ticker": "XLB",
@@ -190,6 +174,16 @@
       "previous_close": 3160.25,
       "previous_date": "2026-11-12",
       "change_pct": -1.58
+    },
+    {
+      "group": "Ferrous",
+      "name": "SGX/CME iron ore 62% Fe",
+      "symbol": "TIO=F",
+      "unit": "USD/t",
+      "close": 91.48,
+      "previous_close": 91.6,
+      "previous_date": "2026-11-12",
+      "change_pct": -0.13
     },
     {
       "group": "Ferrous",
@@ -304,17 +298,97 @@
   ],
   "commodity_note": "Close is Yahoo's latest price when this file was generated, which can differ from the official settlement. Treat as indicative: use reported settlements where available. Thin contracts can be stale.",
   "missing_symbols": [
-    "SGX/CME iron ore 62% Fe",
+    "XLC",
+    "XLRE",
     "ICE orange juice"
   ],
   "movers": {
     "universe_size": 518,
-    "priced": 517,
+    "priced": 438,
     "missing_tickers": [
-      "INCY"
+      "ABBV",
+      "ABNB",
+      "ALAB",
+      "ALLE",
+      "AMCR",
+      "ANET",
+      "APP",
+      "ARES",
+      "ARM",
+      "BE",
+      "CARR",
+      "CDW",
+      "CEG",
+      "CFG",
+      "COIN",
+      "CRWD",
+      "CRWV",
+      "CVNA",
+      "DASH",
+      "DDOG",
+      "DELL",
+      "DOW",
+      "EXE",
+      "FANG",
+      "FDXF",
+      "FER",
+      "FOX",
+      "FOXA",
+      "FTV",
+      "GDDY",
+      "GEHC",
+      "GEV",
+      "GOOG",
+      "HLT",
+      "HONA",
+      "HOOD",
+      "HPE",
+      "HUBB",
+      "INVH",
+      "IQV",
+      "IR",
+      "KEYS",
+      "KHC",
+      "LITE",
+      "META",
+      "MRNA",
+      "NBIS",
+      "NCLH",
+      "NOW",
+      "NWS",
+      "NWSA",
+      "OKTA",
+      "OTIS",
+      "P",
+      "PANW",
+      "PDD",
+      "PLTR",
+      "PNW",
+      "PSX",
+      "PYPL",
+      "Q",
+      "RDDT",
+      "RKLB",
+      "SHOP",
+      "SNDK",
+      "SOLV",
+      "SPCX",
+      "SW",
+      "SYF",
+      "TWLO",
+      "UBER",
+      "VEEV",
+      "VICI",
+      "VLTO",
+      "VRT",
+      "VST",
+      "VYLR",
+      "WDAY",
+      "XYZ",
+      "ZTS"
     ],
-    "advancers": 322,
-    "decliners": 191,
+    "advancers": 284,
+    "decliners": 151,
     "gainers": [
       {
         "ticker": "ALNY",
@@ -379,18 +453,6 @@
     ],
     "losers": [
       {
-        "ticker": "NBIS",
-        "company": "Nebius Group",
-        "sector": "Technology",
-        "industry": "Computer Services",
-        "indices": [
-          "Nasdaq 100"
-        ],
-        "change_pct": -9.92,
-        "close": 115.88,
-        "needs_check": false
-      },
-      {
         "ticker": "AMD",
         "company": "Advanced Micro Devices",
         "sector": "Information Technology",
@@ -401,18 +463,6 @@
         ],
         "change_pct": -8.75,
         "close": 534.06,
-        "needs_check": false
-      },
-      {
-        "ticker": "DELL",
-        "company": "Dell Technologies",
-        "sector": "Information Technology",
-        "industry": "Technology Hardware, Storage & Peripherals",
-        "indices": [
-          "S&P 500"
-        ],
-        "change_pct": -7.18,
-        "close": 344.53,
         "needs_check": false
       },
       {
@@ -429,15 +479,41 @@
         "needs_check": false
       },
       {
-        "ticker": "CRWV",
-        "company": "CoreWeave",
-        "sector": "Technology",
-        "industry": "Computer Services",
+        "ticker": "COHR",
+        "company": "Coherent Corp.",
+        "sector": "Information Technology",
+        "industry": "Electronic Components",
         "indices": [
+          "S&P 500"
+        ],
+        "change_pct": -6.0,
+        "close": 218.15,
+        "needs_check": false
+      },
+      {
+        "ticker": "TER",
+        "company": "Teradyne",
+        "sector": "Information Technology",
+        "industry": "Semiconductor Materials & Equipment",
+        "indices": [
+          "S&P 500",
           "Nasdaq 100"
         ],
-        "change_pct": -6.13,
-        "close": 53.13,
+        "change_pct": -5.38,
+        "close": 249.55,
+        "needs_check": false
+      },
+      {
+        "ticker": "WDC",
+        "company": "Western Digital",
+        "sector": "Information Technology",
+        "industry": "Technology Hardware, Storage & Peripherals",
+        "indices": [
+          "S&P 500",
+          "Nasdaq 100"
+        ],
+        "change_pct": -5.0,
+        "close": 295.65,
         "needs_check": false
       }
     ]
