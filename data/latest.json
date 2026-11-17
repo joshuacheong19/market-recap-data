@@ -1,6 +1,6 @@
 {
   "session_date": "2026-11-16",
-  "generated_at_utc": "2026-11-16T22:15:42+00:00",
+  "generated_at_utc": "2026-11-17T03:54:20+00:00",
   "price_source": "Yahoo Finance via yfinance (unofficial; unadjusted closes)",
   "equities": {
     "SPY": {
@@ -136,50 +136,50 @@
       "name": "COMEX gold",
       "symbol": "GC=F",
       "unit": "USD/oz",
-      "close": 3859.0,
+      "close": 3875.6001,
       "previous_close": 3886.3,
       "previous_date": "2026-11-13",
-      "change_pct": -0.7
+      "change_pct": -0.28
     },
     {
       "group": "Precious metals",
       "name": "COMEX silver",
       "symbol": "SI=F",
       "unit": "USD/oz",
-      "close": 46.91,
+      "close": 47.41,
       "previous_close": 49.031,
       "previous_date": "2026-11-13",
-      "change_pct": -4.33
+      "change_pct": -3.31
     },
     {
       "group": "Precious metals",
       "name": "NYMEX platinum",
       "symbol": "PL=F",
       "unit": "USD/oz",
-      "close": 1447.3,
+      "close": 1471.7,
       "previous_close": 1488.5,
       "previous_date": "2026-11-13",
-      "change_pct": -2.77
+      "change_pct": -1.13
     },
     {
       "group": "Precious metals",
       "name": "NYMEX palladium",
       "symbol": "PA=F",
       "unit": "USD/oz",
-      "close": 966.0,
+      "close": 979.0,
       "previous_close": 1006.0,
       "previous_date": "2026-11-13",
-      "change_pct": -3.98
+      "change_pct": -2.68
     },
     {
       "group": "Base metals",
       "name": "COMEX copper",
       "symbol": "HG=F",
       "unit": "USD/lb",
-      "close": 5.9855,
+      "close": 5.988,
       "previous_close": 6.0795,
       "previous_date": "2026-11-13",
-      "change_pct": -1.55
+      "change_pct": -1.51
     },
     {
       "group": "Base metals",
@@ -190,6 +190,16 @@
       "previous_close": 3133.25,
       "previous_date": "2026-11-13",
       "change_pct": -2.48
+    },
+    {
+      "group": "Ferrous",
+      "name": "SGX/CME iron ore 62% Fe",
+      "symbol": "TIO=F",
+      "unit": "USD/t",
+      "close": 90.91,
+      "previous_close": 91.48,
+      "previous_date": "2026-11-13",
+      "change_pct": -0.62
     },
     {
       "group": "Ferrous",
@@ -216,20 +226,20 @@
       "name": "CBOT corn",
       "symbol": "ZC=F",
       "unit": "US cents/bu",
-      "close": 448.5,
+      "close": 449.0,
       "previous_close": 445.5,
       "previous_date": "2026-11-13",
-      "change_pct": 0.67
+      "change_pct": 0.79
     },
     {
       "group": "Agriculture",
       "name": "CBOT soybeans",
       "symbol": "ZS=F",
       "unit": "US cents/bu",
-      "close": 1226.75,
+      "close": 1228.0,
       "previous_close": 1243.0,
       "previous_date": "2026-11-13",
-      "change_pct": -1.31
+      "change_pct": -1.21
     },
     {
       "group": "Softs",
@@ -276,35 +286,34 @@
       "name": "NYMEX WTI",
       "symbol": "CL=F",
       "unit": "USD/bbl",
-      "close": 85.06,
+      "close": 85.12,
       "previous_close": 88.56,
       "previous_date": "2026-11-13",
-      "change_pct": -3.95
+      "change_pct": -3.88
     },
     {
       "group": "Energy",
       "name": "ICE Brent",
       "symbol": "BZ=F",
       "unit": "USD/bbl",
-      "close": 91.84,
+      "close": 91.69,
       "previous_close": 95.84,
       "previous_date": "2026-11-13",
-      "change_pct": -4.17
+      "change_pct": -4.33
     },
     {
       "group": "Energy",
       "name": "NYMEX natural gas",
       "symbol": "NG=F",
       "unit": "USD/MMBtu",
-      "close": 3.121,
+      "close": 3.1,
       "previous_close": 3.23,
       "previous_date": "2026-11-13",
-      "change_pct": -3.37
+      "change_pct": -4.02
     }
   ],
   "commodity_note": "Close is Yahoo's latest price when this file was generated, which can differ from the official settlement. Treat as indicative: use reported settlements where available. Thin contracts can be stale.",
   "missing_symbols": [
-    "SGX/CME iron ore 62% Fe",
     "ICE orange juice"
   ],
   "movers": {
