@@ -1,6 +1,6 @@
 {
   "session_date": "2026-11-16",
-  "generated_at_utc": "2026-11-17T03:54:20+00:00",
+  "generated_at_utc": "2026-11-17T04:29:11+00:00",
   "price_source": "Yahoo Finance via yfinance (unofficial; unadjusted closes)",
   "equities": {
     "SPY": {
@@ -10,7 +10,7 @@
       "change_pct": -1.91
     },
     "DJI": {
-      "close": 51608.1719,
+      "close": 51608.1992,
       "previous_close": 52347.5508,
       "previous_date": "2026-11-13",
       "change_pct": -1.41
@@ -136,50 +136,50 @@
       "name": "COMEX gold",
       "symbol": "GC=F",
       "unit": "USD/oz",
-      "close": 3875.6001,
+      "close": 3869.2,
       "previous_close": 3886.3,
       "previous_date": "2026-11-13",
-      "change_pct": -0.28
+      "change_pct": -0.44
     },
     {
       "group": "Precious metals",
       "name": "COMEX silver",
       "symbol": "SI=F",
       "unit": "USD/oz",
-      "close": 47.41,
+      "close": 47.25,
       "previous_close": 49.031,
       "previous_date": "2026-11-13",
-      "change_pct": -3.31
+      "change_pct": -3.63
     },
     {
       "group": "Precious metals",
       "name": "NYMEX platinum",
       "symbol": "PL=F",
       "unit": "USD/oz",
-      "close": 1471.7,
+      "close": 1468.1,
       "previous_close": 1488.5,
       "previous_date": "2026-11-13",
-      "change_pct": -1.13
+      "change_pct": -1.37
     },
     {
       "group": "Precious metals",
       "name": "NYMEX palladium",
       "symbol": "PA=F",
       "unit": "USD/oz",
-      "close": 979.0,
+      "close": 978.0,
       "previous_close": 1006.0,
       "previous_date": "2026-11-13",
-      "change_pct": -2.68
+      "change_pct": -2.78
     },
     {
       "group": "Base metals",
       "name": "COMEX copper",
       "symbol": "HG=F",
       "unit": "USD/lb",
-      "close": 5.988,
+      "close": 5.973,
       "previous_close": 6.0795,
       "previous_date": "2026-11-13",
-      "change_pct": -1.51
+      "change_pct": -1.75
     },
     {
       "group": "Base metals",
@@ -216,30 +216,30 @@
       "name": "CBOT wheat",
       "symbol": "ZW=F",
       "unit": "US cents/bu",
-      "close": 601.75,
+      "close": 599.5,
       "previous_close": 593.25,
       "previous_date": "2026-11-13",
-      "change_pct": 1.43
+      "change_pct": 1.05
     },
     {
       "group": "Agriculture",
       "name": "CBOT corn",
       "symbol": "ZC=F",
       "unit": "US cents/bu",
-      "close": 449.0,
+      "close": 448.75,
       "previous_close": 445.5,
       "previous_date": "2026-11-13",
-      "change_pct": 0.79
+      "change_pct": 0.73
     },
     {
       "group": "Agriculture",
       "name": "CBOT soybeans",
       "symbol": "ZS=F",
       "unit": "US cents/bu",
-      "close": 1228.0,
+      "close": 1227.25,
       "previous_close": 1243.0,
       "previous_date": "2026-11-13",
-      "change_pct": -1.21
+      "change_pct": -1.27
     },
     {
       "group": "Softs",
@@ -282,40 +282,48 @@
       "change_pct": 3.21
     },
     {
+      "group": "Softs",
+      "name": "ICE orange juice",
+      "symbol": "OJ=F",
+      "unit": "US cents/lb",
+      "close": 135.75,
+      "previous_close": 136.3,
+      "previous_date": "2026-11-13",
+      "change_pct": -0.4
+    },
+    {
       "group": "Energy",
       "name": "NYMEX WTI",
       "symbol": "CL=F",
       "unit": "USD/bbl",
-      "close": 85.12,
+      "close": 85.01,
       "previous_close": 88.56,
       "previous_date": "2026-11-13",
-      "change_pct": -3.88
+      "change_pct": -4.01
     },
     {
       "group": "Energy",
       "name": "ICE Brent",
       "symbol": "BZ=F",
       "unit": "USD/bbl",
-      "close": 91.69,
+      "close": 91.59,
       "previous_close": 95.84,
       "previous_date": "2026-11-13",
-      "change_pct": -4.33
+      "change_pct": -4.43
     },
     {
       "group": "Energy",
       "name": "NYMEX natural gas",
       "symbol": "NG=F",
       "unit": "USD/MMBtu",
-      "close": 3.1,
+      "close": 3.084,
       "previous_close": 3.23,
       "previous_date": "2026-11-13",
-      "change_pct": -4.02
+      "change_pct": -4.52
     }
   ],
   "commodity_note": "Close is Yahoo's latest price when this file was generated, which can differ from the official settlement. Treat as indicative: use reported settlements where available. Thin contracts can be stale.",
-  "missing_symbols": [
-    "ICE orange juice"
-  ],
+  "missing_symbols": [],
   "movers": {
     "universe_size": 518,
     "priced": 518,
