@@ -1,6 +1,6 @@
 {
   "session_date": "2026-11-25",
-  "generated_at_utc": "2026-11-26T04:10:21+00:00",
+  "generated_at_utc": "2026-11-26T22:15:37+00:00",
   "price_source": "Yahoo Finance via yfinance (unofficial; unadjusted closes)",
   "equities": {
     "SPY": {
@@ -10,7 +10,7 @@
       "change_pct": -0.29
     },
     "DJI": {
-      "close": 50182.8984,
+      "close": 50182.9492,
       "previous_close": 50018.6992,
       "previous_date": "2026-11-24",
       "change_pct": 0.33
@@ -166,10 +166,10 @@
       "name": "NYMEX palladium",
       "symbol": "PA=F",
       "unit": "USD/oz",
-      "close": 878.5,
+      "close": 831.1,
       "previous_close": 858.0,
       "previous_date": "2026-11-24",
-      "change_pct": 2.39
+      "change_pct": -3.14
     },
     {
       "group": "Base metals",
@@ -186,10 +186,10 @@
       "name": "COMEX aluminium",
       "symbol": "ALI=F",
       "unit": "USD/t",
-      "close": 2787.0,
+      "close": 2822.75,
       "previous_close": 2872.5,
       "previous_date": "2026-11-24",
-      "change_pct": -2.98
+      "change_pct": -1.73
     },
     {
       "group": "Ferrous",
@@ -206,90 +206,90 @@
       "name": "CME US Midwest HRC",
       "symbol": "HRC=F",
       "unit": "USD/short ton",
-      "close": 1435.0,
+      "close": 1403.0,
       "previous_close": 1352.0,
       "previous_date": "2026-11-24",
-      "change_pct": 6.14
+      "change_pct": 3.77
     },
     {
       "group": "Agriculture",
       "name": "CBOT wheat",
       "symbol": "ZW=F",
       "unit": "US cents/bu",
-      "close": 586.5,
+      "close": 565.5,
       "previous_close": 569.75,
       "previous_date": "2026-11-24",
-      "change_pct": 2.94
+      "change_pct": -0.75
     },
     {
       "group": "Agriculture",
       "name": "CBOT corn",
       "symbol": "ZC=F",
       "unit": "US cents/bu",
-      "close": 456.25,
+      "close": 439.75,
       "previous_close": 434.0,
       "previous_date": "2026-11-24",
-      "change_pct": 5.13
+      "change_pct": 1.32
     },
     {
       "group": "Agriculture",
       "name": "CBOT soybeans",
       "symbol": "ZS=F",
       "unit": "US cents/bu",
-      "close": 1243.25,
+      "close": 1244.0,
       "previous_close": 1234.0,
       "previous_date": "2026-11-24",
-      "change_pct": 0.75
+      "change_pct": 0.81
     },
     {
       "group": "Softs",
       "name": "ICE coffee",
       "symbol": "KC=F",
       "unit": "US cents/lb",
-      "close": 268.55,
+      "close": 275.65,
       "previous_close": 268.55,
       "previous_date": "2026-11-24",
-      "change_pct": 0.0
+      "change_pct": 2.64
     },
     {
       "group": "Softs",
       "name": "ICE cocoa",
       "symbol": "CC=F",
       "unit": "USD/t",
-      "close": 5421.0,
+      "close": 5302.0,
       "previous_close": 5281.0,
       "previous_date": "2026-11-24",
-      "change_pct": 2.65
+      "change_pct": 0.4
     },
     {
       "group": "Softs",
       "name": "ICE sugar",
       "symbol": "SB=F",
       "unit": "US cents/lb",
-      "close": 18.42,
+      "close": 18.34,
       "previous_close": 17.66,
       "previous_date": "2026-11-24",
-      "change_pct": 4.3
+      "change_pct": 3.85
     },
     {
       "group": "Softs",
       "name": "ICE cotton",
       "symbol": "CT=F",
       "unit": "US cents/lb",
-      "close": 81.97,
+      "close": 79.65,
       "previous_close": 79.12,
       "previous_date": "2026-11-24",
-      "change_pct": 3.6
+      "change_pct": 0.67
     },
     {
       "group": "Softs",
       "name": "ICE orange juice",
       "symbol": "OJ=F",
       "unit": "US cents/lb",
-      "close": 125.4,
+      "close": 125.25,
       "previous_close": 131.4,
       "previous_date": "2026-11-24",
-      "change_pct": -4.57
+      "change_pct": -4.68
     },
     {
       "group": "Energy",
@@ -326,12 +326,11 @@
   "missing_symbols": [],
   "movers": {
     "universe_size": 518,
-    "priced": 516,
+    "priced": 517,
     "missing_tickers": [
-      "BDX",
       "SNDK"
     ],
-    "advancers": 379,
+    "advancers": 380,
     "decliners": 133,
     "gainers": [
       {
