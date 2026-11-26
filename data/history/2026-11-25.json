@@ -1,6 +1,6 @@
 {
   "session_date": "2026-11-25",
-  "generated_at_utc": "2026-11-25T22:15:39+00:00",
+  "generated_at_utc": "2026-11-26T03:34:40+00:00",
   "price_source": "Yahoo Finance via yfinance (unofficial; unadjusted closes)",
   "equities": {
     "SPY": {
@@ -136,50 +136,50 @@
       "name": "COMEX gold",
       "symbol": "GC=F",
       "unit": "USD/oz",
-      "close": 3617.8,
+      "close": 3604.2,
       "previous_close": 3561.8999,
       "previous_date": "2026-11-24",
-      "change_pct": 1.57
+      "change_pct": 1.19
     },
     {
       "group": "Precious metals",
       "name": "COMEX silver",
       "symbol": "SI=F",
       "unit": "USD/oz",
-      "close": 41.67,
+      "close": 41.86,
       "previous_close": 40.76,
       "previous_date": "2026-11-24",
-      "change_pct": 2.23
+      "change_pct": 2.7
     },
     {
       "group": "Precious metals",
       "name": "NYMEX platinum",
       "symbol": "PL=F",
       "unit": "USD/oz",
-      "close": 1266.9,
+      "close": 1285.8,
       "previous_close": 1258.7,
       "previous_date": "2026-11-24",
-      "change_pct": 0.65
+      "change_pct": 2.15
     },
     {
       "group": "Precious metals",
       "name": "NYMEX palladium",
       "symbol": "PA=F",
       "unit": "USD/oz",
-      "close": 861.0,
+      "close": 877.5,
       "previous_close": 858.0,
       "previous_date": "2026-11-24",
-      "change_pct": 0.35
+      "change_pct": 2.27
     },
     {
       "group": "Base metals",
       "name": "COMEX copper",
       "symbol": "HG=F",
       "unit": "USD/lb",
-      "close": 5.4815,
+      "close": 5.486,
       "previous_close": 5.3625,
       "previous_date": "2026-11-24",
-      "change_pct": 2.22
+      "change_pct": 2.3
     },
     {
       "group": "Base metals",
@@ -193,13 +193,23 @@
     },
     {
       "group": "Ferrous",
+      "name": "SGX/CME iron ore 62% Fe",
+      "symbol": "TIO=F",
+      "unit": "USD/t",
+      "close": 90.64,
+      "previous_close": 90.67,
+      "previous_date": "2026-11-24",
+      "change_pct": -0.03
+    },
+    {
+      "group": "Ferrous",
       "name": "CME US Midwest HRC",
       "symbol": "HRC=F",
       "unit": "USD/short ton",
-      "close": 1431.0,
+      "close": 1435.0,
       "previous_close": 1352.0,
       "previous_date": "2026-11-24",
-      "change_pct": 5.84
+      "change_pct": 6.14
     },
     {
       "group": "Agriculture",
@@ -286,42 +296,42 @@
       "name": "NYMEX WTI",
       "symbol": "CL=F",
       "unit": "USD/bbl",
-      "close": 84.15,
+      "close": 84.26,
       "previous_close": 82.05,
       "previous_date": "2026-11-24",
-      "change_pct": 2.56
+      "change_pct": 2.69
     },
     {
       "group": "Energy",
       "name": "ICE Brent",
       "symbol": "BZ=F",
       "unit": "USD/bbl",
-      "close": 90.82,
+      "close": 90.99,
       "previous_close": 91.4,
       "previous_date": "2026-11-24",
-      "change_pct": -0.63
+      "change_pct": -0.45
     },
     {
       "group": "Energy",
       "name": "NYMEX natural gas",
       "symbol": "NG=F",
       "unit": "USD/MMBtu",
-      "close": 3.675,
+      "close": 3.678,
       "previous_close": 3.323,
       "previous_date": "2026-11-24",
-      "change_pct": 10.59
+      "change_pct": 10.68
     }
   ],
   "commodity_note": "Close is Yahoo's latest price when this file was generated, which can differ from the official settlement. Treat as indicative: use reported settlements where available. Thin contracts can be stale.",
-  "missing_symbols": [
-    "SGX/CME iron ore 62% Fe"
-  ],
+  "missing_symbols": [],
   "movers": {
     "universe_size": 518,
-    "priced": 518,
-    "missing_tickers": [],
+    "priced": 517,
+    "missing_tickers": [
+      "SNDK"
+    ],
     "advancers": 380,
-    "decliners": 134,
+    "decliners": 133,
     "gainers": [
       {
         "ticker": "HPQ",
@@ -382,24 +392,11 @@
           "Nasdaq 100"
         ],
         "change_pct": 6.44,
-        "close": 333.105,
+        "close": 333.11,
         "needs_check": false
       }
     ],
     "losers": [
-      {
-        "ticker": "SNDK",
-        "company": "Sandisk",
-        "sector": "Information Technology",
-        "industry": "Technology Hardware, Storage & Peripherals",
-        "indices": [
-          "S&P 500",
-          "Nasdaq 100"
-        ],
-        "change_pct": -22.02,
-        "close": 73.61,
-        "needs_check": false
-      },
       {
         "ticker": "LRCX",
         "company": "Lam Research",
@@ -449,6 +446,18 @@
         ],
         "change_pct": -4.31,
         "close": 158.25,
+        "needs_check": false
+      },
+      {
+        "ticker": "J",
+        "company": "Jacobs Solutions",
+        "sector": "Industrials",
+        "industry": "Construction & Engineering",
+        "indices": [
+          "S&P 500"
+        ],
+        "change_pct": -4.27,
+        "close": 145.49,
         "needs_check": false
       }
     ]
