@@ -1,6 +1,6 @@
 {
   "session_date": "2026-11-25",
-  "generated_at_utc": "2026-11-26T22:15:37+00:00",
+  "generated_at_utc": "2026-11-27T03:38:39+00:00",
   "price_source": "Yahoo Finance via yfinance (unofficial; unadjusted closes)",
   "equities": {
     "SPY": {
@@ -326,11 +326,12 @@
   "missing_symbols": [],
   "movers": {
     "universe_size": 518,
-    "priced": 517,
+    "priced": 516,
     "missing_tickers": [
+      "ALNY",
       "SNDK"
     ],
-    "advancers": 380,
+    "advancers": 379,
     "decliners": 133,
     "gainers": [
       {
