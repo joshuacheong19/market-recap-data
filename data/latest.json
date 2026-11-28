@@ -1,6 +1,6 @@
 {
   "session_date": "2026-11-27",
-  "generated_at_utc": "2026-11-27T22:15:45+00:00",
+  "generated_at_utc": "2026-11-28T03:19:18+00:00",
   "price_source": "Yahoo Finance via yfinance (unofficial; unadjusted closes)",
   "equities": {
     "SPY": {
@@ -193,6 +193,16 @@
     },
     {
       "group": "Ferrous",
+      "name": "SGX/CME iron ore 62% Fe",
+      "symbol": "TIO=F",
+      "unit": "USD/t",
+      "close": 90.69,
+      "previous_close": 90.64,
+      "previous_date": "2026-11-25",
+      "change_pct": 0.06
+    },
+    {
+      "group": "Ferrous",
       "name": "CME US Midwest HRC",
       "symbol": "HRC=F",
       "unit": "USD/short ton",
@@ -313,15 +323,15 @@
     }
   ],
   "commodity_note": "Close is Yahoo's latest price when this file was generated, which can differ from the official settlement. Treat as indicative: use reported settlements where available. Thin contracts can be stale.",
-  "missing_symbols": [
-    "SGX/CME iron ore 62% Fe"
-  ],
+  "missing_symbols": [],
   "movers": {
     "universe_size": 518,
-    "priced": 518,
-    "missing_tickers": [],
+    "priced": 517,
+    "missing_tickers": [
+      "SNDK"
+    ],
     "advancers": 421,
-    "decliners": 96,
+    "decliners": 95,
     "gainers": [
       {
         "ticker": "COHR",
@@ -388,19 +398,6 @@
     ],
     "losers": [
       {
-        "ticker": "SNDK",
-        "company": "Sandisk",
-        "sector": "Information Technology",
-        "industry": "Technology Hardware, Storage & Peripherals",
-        "indices": [
-          "S&P 500",
-          "Nasdaq 100"
-        ],
-        "change_pct": -9.57,
-        "close": 85.36,
-        "needs_check": false
-      },
-      {
         "ticker": "VRTX",
         "company": "Vertex Pharmaceuticals",
         "sector": "Health Care",
@@ -447,6 +444,18 @@
         ],
         "change_pct": -2.42,
         "close": 148.53,
+        "needs_check": false
+      },
+      {
+        "ticker": "GDDY",
+        "company": "GoDaddy",
+        "sector": "Information Technology",
+        "industry": "Internet Services & Infrastructure",
+        "indices": [
+          "S&P 500"
+        ],
+        "change_pct": -1.97,
+        "close": 103.07,
         "needs_check": false
       }
     ]
